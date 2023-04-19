@@ -7,5 +7,7 @@ To use this text classifier, you need to install the following packages:
 
 Spacy (version 3 or above) Pandas (for data manipulation) Scikit-learn (for machine learning algorithms) Installation: To install Spacy, run the following command in your terminal: pip install spacy
 
+FastText-a library for learning of word embeddings and text classification created by Facebook's AI Research lab. The model allows one to create an unsupervised learning or supervised learning algorithm for obtaining vector representations for words.
+
 ### To install Pandas and Scikit-learn:
  run the following command: pip install pandas scikit-learn
