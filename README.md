@@ -1,5 +1,7 @@
 # IT TICKET CLASSIFIER WITH SPACY
-![alt text](https://www.newpaltz.edu/media/identity/logos/newpaltzlogo165-1013x311.jpg)
+<p>
+  <img src="https://www.newpaltz.edu/media/identity/logos/newpaltzlogo165-1013x311.jpg" width="350" title="hover text">
+</p>
 ## Introduction: 
 This text classifier is built with Spacy, a powerful and efficient natural language processing library in Python. The classifier is designed to categorize text into predefined categories based on the training data provided.
 
