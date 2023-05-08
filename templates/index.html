@@ -35,31 +35,37 @@
       background-color: #bd8461;
       cursor: pointer;
     }
-    body{
+
+    body {
       background-color: #F6E1C3;
     }
-    .nlp{
+
+    .nlp {
       display: flex;
-      justify-content:center !important;
+      justify-content: center !important;
       flex-direction: column;
       align-items: center;
 
     }
-    form{
+
+    form {
       display: flex;
       flex-direction: column;
     }
-    button{
+
+    button {
       margin-top: 20px;
     }
-    h1{
+
+    h1 {
       margin: 20px;
     }
-    p{
+
+    p {
       width: 50em;
       font-size: 18px;
-     
-      font-family:'Courier New', Courier, monospace
+
+      font-family: 'Courier New', Courier, monospace
     }
   </style>
 
@@ -79,7 +85,11 @@
   </div> -->
   <div class="nlp">
     <h1 style="color:black;">IT Ticket Prediction</h1>
-    <p> Our NLP (Natural Language Processing) model has the capability to predict which IT technician is the most suitable for a particular ticket based on the client's problem description. This model streamlines the ticket resolution process, leading to faster response times and enhanced efficiency. </p>
+    <p> Our NLP (Natural Language Processing) model has the capability to predict which IT technician is the most
+      suitable for a particular ticket based on the client's problem description. This model streamlines the ticket
+      resolution process, leading to faster response times and enhanced efficiency. </p>
+
+      <iframe style="border-radius:12px; margin-top: 10px;" src="https://open.spotify.com/embed/track/01Lr5YepbgjXAWR9iOEyH1?utm_source=generator&theme=0" width="50%" height="200" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
     <form action="{{ url_for('predict')}}" method="post">
       <textarea name="description" placeholder="Enter Text" rows="10" cols="50" required="required"></textarea>
@@ -90,6 +100,7 @@
     <br>
     <h4 style="color:black;">
       {{ prediction_text }} </h4>
+      
 
   </div>
 
