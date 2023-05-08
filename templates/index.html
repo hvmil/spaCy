@@ -38,6 +38,23 @@
     body{
       background-color: #F6E1C3;
     }
+    .nlp{
+      display: flex;
+      justify-content:center !important;
+      flex-direction: column;
+      align-items: center;
+
+    }
+    form{
+      display: flex;
+      flex-direction: column;
+    }
+    button{
+      margin-top: 20px;
+    }
+    h1{
+      margin: 20px;
+    }
   </style>
 
 </head>
@@ -52,11 +69,11 @@
     <a id="a" href="https://cs.newpaltz.edu/p/s23-07/v2/" target="_self">Data Analysis</a>
 
   </div>
-  <div class="login">
+  <div class="nlp">
     <h1 style="color:black;">IT Ticket Prediction</h1>
 
     <form action="{{ url_for('predict')}}" method="post">
-      <input type="text" name="description" placeholder="Enter Text" required="required" /><br>
+      <textarea name="description" placeholder="Enter Text" rows="10" cols="50" required="required"></textarea>
       <button type="submit" class="btn btn-primary btn-block btn-large">Predict</button></p>
     </form>
 
