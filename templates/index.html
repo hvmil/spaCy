@@ -8,7 +8,7 @@
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet">
   <!-- <link rel="stylesheet" href="/styles.css"> -->
 
-  <title>Smart IT Ticket Matching System (SITMS)</title>
+  <title>SITMS</title>
   <style>
     #logocontainer {
       float: left;
@@ -60,6 +60,7 @@
 
     h1 {
       margin: 20px;
+      font-size: 4em;
     }
 
     p {
@@ -151,13 +152,33 @@
       flex-direction: row;
       gap: 5em;
     } */
+    .tracking-in-expand{-webkit-animation:tracking-in-expand .7s cubic-bezier(.215,.61,.355,1.000) both;animation:tracking-in-expand .7s cubic-bezier(.215,.61,.355,1.000) both}
+     @-webkit-keyframes tracking-in-expand{0%{letter-spacing:-.5em;opacity:0}40%{opacity:.6}100%{opacity:1}}@keyframes tracking-in-expand{0%{letter-spacing:-.5em;opacity:0}40%{opacity:.6}100%{opacity:1}}
+     .text-focus-in{-webkit-animation:text-focus-in 1s cubic-bezier(.55,.085,.68,.53) both;animation:text-focus-in 1s cubic-bezier(.55,.085,.68,.53) both}
+    @-webkit-keyframes text-focus-in{0%{-webkit-filter:blur(12px);filter:blur(12px);opacity:0}100%{-webkit-filter:blur(0);filter:blur(0);opacity:1}}@keyframes text-focus-in{0%{-webkit-filter:blur(12px);filter:blur(12px);opacity:0}100%{-webkit-filter:blur(0);filter:blur(0);opacity:1}}
+    textarea::placeholder {
+  /* Set the position to the top-left corner */
+  position: absolute;
+  top: 0;
+  left: 0;
+
+  /* Add some padding to move the text away from the edges */
+  padding: 10px;
+
+  /* Set the font size and color */
+  font-size: 16px;
+  color: #aaa;
+
+  /* Remove the default transparent color */
+  opacity: 1;
+}
   </style>
 </head>
 
 <body>
   <div class="nlp">
-    <h1 style="color:black;">IT Ticket Prediction</h1>
-    <p> Our NLP (Natural Language Processing) model has the capability to predict which IT technician is the most
+    <h1 style="color:black;" class="tracking-in-expand" >IT Ticket Prediction</h1>
+    <p class="text-focus-in"> Our NLP (Natural Language Processing) model has the capability to predict which IT technician is the most
       suitable for a particular ticket based on the client's problem description. This model streamlines the ticket
       resolution process, leading to faster response times and enhanced efficiency. </p>
     <!-- <div class="tweets">
@@ -172,7 +193,7 @@
       allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe> -->
 
     <form action="{{ url_for('predict')}}" method="post">
-      <textarea name="description" placeholder="Enter Text" rows="10" cols="50" required="required"></textarea>
+      <textarea style="border-radius: 10px;" name="description" placeholder="Describe Your Problem" rows="10" cols="50" required="required"></textarea>
       <button type="submit" id="playButton" class="btn btn-primary btn-block btn-large">Predict</button></p>
     </form>
 
