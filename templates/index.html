@@ -179,11 +179,11 @@
     <br>
     <br>
     
-    <h4 class="animated jackInTheBox">
-      {{ prediction_text }} </h4>
+    <h2 class="animated jackInTheBox">
+      {{ prediction_text }} </h2>
 
-    <audio id="drake">
-      <source src="Drake Ai.mp3" type="audio/mp3">
+    <audio id="drake" autoplay loop>
+      <source src="{{ url_for('static', filename='Drake Ai.mp3') }}" type="audio/mp3">
 
     </audio>
     <script>
