@@ -172,6 +172,13 @@
   /* Remove the default transparent color */
   opacity: 1;
 }
+#tryit{
+  font-family:Arial, Helvetica, sans-serif;
+  font-size: 18px;
+  font-weight: 600;
+  margin-bottom: 0.5em;
+}
+
   </style>
 </head>
 
@@ -181,6 +188,7 @@
     <p class="text-focus-in"> Our NLP (Natural Language Processing) model has the capability to predict which SUNY New Paltz IT technician is the most
       suitable for a particular ticket based on the given problem description. This model streamlines the ticket
       resolution process, leading to faster response times and enhanced efficiency. </p>
+
     <!-- <div class="tweets">
         <blockquote class="twitter-tweet" data-lang="en" data-theme="dark"><p lang="en" dir="ltr">The purpose of nature is the advancement and development of life</p>&mdash; Glory Boy (@ChiefKeef) <a href="https://twitter.com/ChiefKeef/status/243580008508055552?ref_src=twsrc%5Etfw">September 6, 2012</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
         <blockquote class="twitter-tweet" data-theme="dark"><p lang="en" dir="ltr">Failure is simply the opportunity to begin again, this time more intelligently</p>&mdash; Glory Boy (@ChiefKeef) <a href="https://twitter.com/ChiefKeef/status/243580442517856256?ref_src=twsrc%5Etfw">September 6, 2012</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -193,7 +201,7 @@
       allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe> -->
 
     <form action="{{ url_for('predict')}}" method="post">
-      <textarea style="border-radius: 10px;" name="description" placeholder="Describe Your Problem" rows="10" cols="50" required="required"></textarea>
+      <textarea style="border-radius: 10px;" name="description" placeholder="Try it! Describe Your Problem" rows="10" cols="50" required="required"></textarea>
       <button type="submit" id="playButton" class="btn btn-primary btn-block btn-large">Predict</button></p>
     </form>
 
