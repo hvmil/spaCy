@@ -14,9 +14,21 @@ def home():
 def predict():
    
     prediction = model.predict(list(request.form.values())[0])[0][0]
+    match prediction:
+        case "__label__raymond":
+            prediction = "Raymond Ransome."
 
+        case "__label__brendan":
+            prediction = "Brendan Gannon."
+        case "__label__paul":
+           prediction = "Paul Chauvet."
 
-    return render_template('index.html', prediction_text = "This should be assigned to: " + prediction.replace('__label__', '').capitalize())
+        case "__label__kevin":
+            prediction = "Kevin Saunders."
+        case _:
+            prediction = "Unknown"
+
+    return render_template('index.html', prediction_text = "This should be assigned to " + prediction)
 
 
 if __name__ == "__main__":
