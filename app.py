@@ -28,11 +28,11 @@ def predict():
         case _:
             prediction = "Unknown"
 
-    return render_template('index.html', prediction_text = "This should be assigned to " + prediction)
+    return render_template('updatedpage.html', prediction_text = "This ticket should go to " + prediction)
 
 
 if __name__ == "__main__":
-    app.run()
+    app.run(port=8000, debug=True)
 # label, probability = model.predict("I cant print")
 # print("Label:", label[0])
 # print("Probability:", probability[0])

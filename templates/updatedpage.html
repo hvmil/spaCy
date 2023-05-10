@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='updatedstyles.css') }}">
+
+    <title>SITMS</title>
+
+</head>
+
+<body>
+    <div class="nlp">
+        <h1 style="color:black;" class="tracking-in-expand">IT Ticket Prediction</h1>
+
+
+        <p class="text-focus-in"> Our NLP (Natural Language Processing) model has the capability to predict which SUNY
+            New Paltz IT technician is the most
+            suitable for a particular ticket based on the given problem description. This model streamlines the ticket
+            resolution process, leading to faster response times and enhanced efficiency. </p>
+
+        <!-- <div class="tweets">
+        <blockquote class="twitter-tweet" data-lang="en" data-theme="dark"><p lang="en" dir="ltr">The purpose of nature is the advancement and development of life</p>&mdash; Glory Boy (@ChiefKeef) <a href="https://twitter.com/ChiefKeef/status/243580008508055552?ref_src=twsrc%5Etfw">September 6, 2012</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+        <blockquote class="twitter-tweet" data-theme="dark"><p lang="en" dir="ltr">Failure is simply the opportunity to begin again, this time more intelligently</p>&mdash; Glory Boy (@ChiefKeef) <a href="https://twitter.com/ChiefKeef/status/243580442517856256?ref_src=twsrc%5Etfw">September 6, 2012</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+        
+      </div> -->
+
+        <!-- <iframe style="border-radius:12px; margin-top: 10px;"
+      src="https://open.spotify.com/embed/track/01Lr5YepbgjXAWR9iOEyH1?utm_source=generator&theme=0" width="50%"
+      height="200" frameBorder="0" allowfullscreen=""
+      allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe> -->
+
+        <form action="{{ url_for('predict')}}" method="post">
+            <textarea style="border-radius: 10px;" name="description" placeholder="Try it! Describe Your Problem"
+                rows="10" cols="50" required="required"></textarea>
+            <button type="submit" id="playButton" class="btn btn-primary btn-block btn-large">Predict</button></p>
+        </form>
+
+        <br>
+        <br>
+
+
+
+        <h2 class="animated jackInTheBox">
+            {{ prediction_text }} </h2>
+
+
+        <audio id="drake" autoplay>
+            <source src="{{ url_for('static', filename='Drake Ai.mp3') }}" type="audio/mp3">
+
+        </audio>
+
+        <!------------------------------------------------------------------------------------------------------->
+
+
+        <script src="https://cdn.jsdelivr.net/npm/darkmode-js@1.5.7/lib/darkmode-js.min.js"></script>
+        <script src="https://cdn.blobity.dev/by.js?autoStart&licenseKey=..."></script>
+        <script src="https://cdn.blobity.dev/by.js"></script>
+        <script>
+            const options = {
+                bottom: '64px', // default: '32px'
+                right: '32px', // default: '32px'
+                left: 'unset', // default: 'unset'
+                time: '0.5s', // default: '0.3s'
+                mixColor: '#fff', // default: '#fff'
+                backgroundColor: '#F6E1C3',  // default: '#fff'
+                buttonColorDark: '#100f2c',  // default: '#100f2c'
+                buttonColorLight: '#fff', // default: '#fff'
+                saveInCookies: false, // default: true,
+                label: '🌓', // default: ''
+                autoMatchOsTheme: true // default: true
+            }
+
+            const darkmode = new Darkmode(options);
+            darkmode.showWidget();
+
+
+            const option2 = {
+                color: '#E9A178',
+                dotColor: 'white',
+                invert: true
+            };
+            new Blobity(option2);
+            const playButton = document.getElementById('playButton');
+            const myAudio = document.getElementById('myAudio');
+            playButton.addEventListener('click', function () {
+                drake.play();
+            });
+
+
+        </script>
+
+</body>
+
+</html>

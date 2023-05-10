@@ -1,0 +1,237 @@
+#logocontainer {
+    float: left;
+    background-color: #E9A178;
+    border-right: 1px solid white;
+}
+
+#navbar {
+    overflow: hidden;
+    background-color: #E9A178;
+}
+
+#navbar #a {
+    float: left;
+    font-size: 16px;
+    color: white;
+    border-right: 1px solid white;
+    text-align: center;
+    padding: 22px;
+    text-decoration: none;
+}
+
+#navbar #a:hover {
+    background-color: #bd8461;
+    cursor: pointer;
+}
+
+body {
+    background-color: #F6E1C3 !important;
+    isolation: isolate !important;
+}
+
+.nlp {
+    display: flex;
+    justify-content: center !important;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+}
+
+button {
+    margin-top: 20px;
+}
+
+h1 {
+    margin: 20px;
+    font-size: 4em;
+}
+
+p {
+    width: 50em;
+    font-size: 18px;
+    isolation: isolate;
+    font-family: 'Courier New', Courier, monospace
+}
+
+.darkmode--activated {
+    color: #F6E1C3;
+}
+
+iframe {
+    isolation: isolate;
+
+}
+
+.darkmode--activated .logo {
+    mix-blend-mode: difference;
+}
+
+@-webkit-keyframes jackInTheBox {
+    from {
+        opacity: 0;
+        -webkit-transform: scale(0.1) rotate(30deg);
+        transform: scale(0.1) rotate(30deg);
+        -webkit-transform-origin: center bottom;
+        transform-origin: center bottom;
+    }
+
+    50% {
+        -webkit-transform: rotate(-10deg);
+        transform: rotate(-10deg);
+    }
+
+    70% {
+        -webkit-transform: rotate(3deg);
+        transform: rotate(3deg);
+    }
+
+    to {
+        opacity: 1;
+        -webkit-transform: scale(1);
+        transform: scale(1);
+    }
+}
+
+@keyframes jackInTheBox {
+    from {
+        opacity: 0;
+        -webkit-transform: scale(0.1) rotate(30deg);
+        transform: scale(0.1) rotate(30deg);
+        -webkit-transform-origin: center bottom;
+        transform-origin: center bottom;
+    }
+
+    50% {
+        -webkit-transform: rotate(-10deg);
+        transform: rotate(-10deg);
+    }
+
+    70% {
+        -webkit-transform: rotate(3deg);
+        transform: rotate(3deg);
+    }
+
+    to {
+        opacity: 1;
+        -webkit-transform: scale(1);
+        transform: scale(1);
+    }
+}
+
+.jackInTheBox {
+    -webkit-animation-name: jackInTheBox;
+    animation-name: jackInTheBox;
+}
+
+.animated {
+    -webkit-animation-duration: 1s;
+    animation-duration: 1s;
+    -webkit-animation-fill-mode: both;
+    animation-fill-mode: both;
+}
+
+/* .tweets{
+    display: flex;
+    flex-direction: row;
+    gap: 5em;
+  } */
+.tracking-in-expand {
+    -webkit-animation: tracking-in-expand .7s cubic-bezier(.215, .61, .355, 1.000) both;
+    animation: tracking-in-expand .7s cubic-bezier(.215, .61, .355, 1.000) both
+}
+
+@-webkit-keyframes tracking-in-expand {
+    0% {
+        letter-spacing: -.5em;
+        opacity: 0
+    }
+
+    40% {
+        opacity: .6
+    }
+
+    100% {
+        opacity: 1
+    }
+}
+
+@keyframes tracking-in-expand {
+    0% {
+        letter-spacing: -.5em;
+        opacity: 0
+    }
+
+    40% {
+        opacity: .6
+    }
+
+    100% {
+        opacity: 1
+    }
+}
+.tracking-in-expand#maintitle{
+    animation: none;
+    -webkit-animation: none;
+}
+
+.text-focus-in {
+    -webkit-animation: text-focus-in 1s cubic-bezier(.55, .085, .68, .53) both;
+    animation: text-focus-in 1s cubic-bezier(.55, .085, .68, .53) both
+}
+
+@-webkit-keyframes text-focus-in {
+    0% {
+        -webkit-filter: blur(12px);
+        filter: blur(12px);
+        opacity: 0
+    }
+
+    100% {
+        -webkit-filter: blur(0);
+        filter: blur(0);
+        opacity: 1
+    }
+}
+
+@keyframes text-focus-in {
+    0% {
+        -webkit-filter: blur(12px);
+        filter: blur(12px);
+        opacity: 0
+    }
+
+    100% {
+        -webkit-filter: blur(0);
+        filter: blur(0);
+        opacity: 1
+    }
+}
+
+textarea::placeholder {
+    /* Set the position to the top-left corner */
+    position: absolute;
+    top: 0;
+    left: 0;
+
+    /* Add some padding to move the text away from the edges */
+    padding: 10px;
+
+    /* Set the font size and color */
+    font-size: 16px;
+    color: #aaa;
+
+    /* Remove the default transparent color */
+    opacity: 1;
+}
+
+#tryit {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    font-weight: 600;
+    margin-bottom: 0.5em;
+}
