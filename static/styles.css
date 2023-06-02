@@ -276,12 +276,26 @@ tr:hover {
         overflow-x: auto;
     }
 }
+
+#search-bar {
+    margin-bottom: 20px;
+}
 #navbar {
     display: flex;
     justify-content: space-between;
     align-items: center;
     background-color: #333;
-    padding: 20px;
+    padding: 8px;
+}
+
+.navbar-left {
+    display: flex;
+    align-items: center;
+}
+
+.navbar-right {
+    display: flex;
+    align-items: center;
 }
 
 #navbar a {
@@ -289,7 +303,7 @@ tr:hover {
     text-decoration: none;
     font-size: 16px;
     margin-right: 20px;
-    padding: 10px;
+    padding: 15px;
     border-radius: 5px;
     transition: background-color 0.3s;
 }
@@ -305,10 +319,4 @@ tr:hover {
 
 #navbar a:last-child:hover {
     background-color: #a46f4d;
-}
-.container {
-    margin-top: 50px;
-}
-#search-bar {
-    margin-bottom: 20px;
 }
