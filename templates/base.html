@@ -13,10 +13,11 @@
             {% if request.path == '/view_database' %} <!-- Check if the current path is '/view_database' -->
             <a href="/clear_database">Clear Database</a> <!-- Only show the link when on '/view_database' -->
             <a href="/add_mock_data">Add Mock Data</a>
+            <a href="/logout">Logout</a>
             {% endif %}
         </div>
         <div class="navbar-right">
-            {% if request.path != '/view_database' %} <!-- Check if the current path is not '/view_database' -->
+            {% if request.path == '/' %} <!-- Check if the current path is not '/view_database' -->
             <a href="/view_database">View Database</a> <!-- Show the link when not on '/view_database' -->
             {% endif %}
         </div>
