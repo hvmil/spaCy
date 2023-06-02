@@ -43,13 +43,13 @@ def predict():
     prediction = model.predict(text)[0][0]
 
     if prediction == "__label__raymond":
-        prediction = "Networking."
+        prediction = "Service Desk."
     elif prediction == "__label__brendan":
-        prediction = "Systems Administration."
+        prediction = "Audio Visual."
     elif prediction == "__label__paul":
         prediction = "Security."
     elif prediction == "__label__kevin":
-        prediction = "Audio-Visual."
+        prediction = "Networking."
     else:
         prediction = "Unknown"
 
