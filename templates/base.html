@@ -17,7 +17,7 @@
             {% endif %}
         </div>
         <div class="navbar-right">
-            {% if request.path == '/' %} <!-- Check if the current path is not '/view_database' -->
+            {% if request.path == '/' or request.path == '/predict' %} <!-- Check if the current path is not '/view_database' -->
             <a href="/view_database">View Database</a> <!-- Show the link when not on '/view_database' -->
             {% endif %}
         </div>
