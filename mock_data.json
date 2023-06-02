@@ -1,0 +1,3827 @@
+[
+    {
+        "label": "Networking.",
+        "text": "I'm experiencing network connectivity issues. I can't connect to the internet. I've tried troubleshooting the network settings, restarting the modem, and checking the cables, but nothing seems to work. This issue is preventing me from accessing important online resources for my work, and I need a resolution as soon as possible."
+    },
+    {
+        "label": "Service Desk.",
+        "text": "My computer is running extremely slow and freezing frequently, which is significantly impacting my work productivity. Opening simple applications takes forever, and multitasking has become nearly impossible. I've already tried disk cleanup, disk defragmentation, and scanning for malware, but the performance issue persists. I need assistance in identifying the cause of this problem and finding a solution."
+    },
+    {
+        "label": "Security.",
+        "text": "I accidentally deleted an important file from my computer's hard drive. The file contained critical data related to a project I've been working on for weeks. I checked the Recycle Bin, but it's not there. I need guidance on how to recover deleted files or any possible solutions to restore the deleted data. It's crucial to retrieve the file to avoid any setbacks in the project's timeline."
+    },
+    {
+        "label": "System Administration.",
+        "text": "I'm having trouble setting up my email account on Microsoft Outlook. Every time I try to add the account, it gives me an authentication error. I've double-checked the email address, password, and server settings, but the problem persists. This issue is preventing me from accessing my emails and collaborating with colleagues effectively. I need assistance in troubleshooting the email setup process and resolving the authentication problem."
+    },
+    {
+        "label": "Applications.",
+        "text": "My printer is not responding when I send print commands from my computer. I've checked the connections, restarted both the printer and the computer, and even reinstalled the printer drivers, but it still won't print. I have important documents that need to be printed urgently, and this issue is causing delays and frustration. I need help in diagnosing and fixing the printer connectivity problem."
+    },
+    {
+        "label": "Hardware.",
+        "text": "I'm encountering a blue screen error on my Windows computer with the error message 'PAGE_FAULT_IN_NONPAGED_AREA.' The error occurs randomly, and it causes my computer to crash, resulting in data loss and disruption of work. I've tried updating drivers, running system diagnostics, and checking for hardware issues, but the blue screen error persists. I need expert assistance in resolving this critical issue and preventing further system crashes."
+    },
+    {
+        "label": "Security.",
+        "text": "The software I'm using for graphic design keeps crashing unexpectedly, even with simple tasks. I've tried reinstalling the software, updating my graphics drivers, and disabling conflicting plugins, but the crashes continue to occur. This issue is hindering my creative workflow and productivity, and I need a solution to stabilize the software and prevent these frequent crashes."
+    },
+    {
+        "label": "Audio Visual.",
+        "text": "My speakers are not loug enough. can i  get them replaced."
+    },
+
+    {
+        "label": "Networking.",
+        "text": "I'm experiencing network connectivity issues. I can't connect to the internet. I've tried troubleshooting the network settings, restarting the modem, and checking the cables, but nothing seems to work. This issue is preventing me from accessing important online resources for my work, and I need a resolution as soon as possible."
+    },
+    {
+        "label": "Service Desk.",
+        "text": "My computer is running extremely slow and freezing frequently, which is significantly impacting my work productivity. Opening simple applications takes forever, and multitasking has become nearly impossible. I've already tried disk cleanup, disk defragmentation, and scanning for malware, but the performance issue persists. I need assistance in identifying the cause of this problem and finding a solution."
+    },
+    {
+        "label": "Security.",
+        "text": "I accidentally deleted an important file from my computer's hard drive. The file contained critical data related to a project I've been working on for weeks. I checked the Recycle Bin, but it's not there. I need guidance on how to recover deleted files or any possible solutions to restore the deleted data. It's crucial to retrieve the file to avoid any setbacks in the project's timeline."
+    },
+    {
+        "label": "System Administration.",
+        "text": "I'm having trouble setting up my email account on Microsoft Outlook. Every time I try to add the account, it gives me an authentication error. I've double-checked the email address, password, and server settings, but the problem persists. This issue is preventing me from accessing my emails and collaborating with colleagues effectively. I need assistance in troubleshooting the email setup process and resolving the authentication problem."
+    },
+    {
+        "label": "Applications.",
+        "text": "My printer is not responding when I send print commands from my computer. I've checked the connections, restarted both the printer and the computer, and even reinstalled the printer drivers, but it still won't print. I have important documents that need to be printed urgently, and this issue is causing delays and frustration. I need help in diagnosing and fixing the printer connectivity problem."
+    },
+    {
+        "label": "Hardware.",
+        "text": "I'm encountering a blue screen error on my Windows computer with the error message 'PAGE_FAULT_IN_NONPAGED_AREA.' The error occurs randomly, and it causes my computer to crash, resulting in data loss and disruption of work. I've tried updating drivers, running system diagnostics, and checking for hardware issues, but the blue screen error persists. I need expert assistance in resolving this critical issue and preventing further system crashes."
+    },
+    {
+        "label": "Security.",
+        "text": "The software I'm using for graphic design keeps crashing unexpectedly, even with simple tasks. I've tried reinstalling the software, updating my graphics drivers, and disabling conflicting plugins, but the crashes continue to occur. This issue is hindering my creative workflow and productivity, and I need a solution to stabilize the software and prevent these frequent crashes."
+    },
+    {
+        "label": "Audio Visual.",
+        "text": "My speakers are not loud enough. Can I get them replaced?"
+    },
+    {
+        "label": "Networking.",
+        "text": "I'm having trouble accessing certain websites from my computer. Whenever I try to visit specific sites, I receive an error message saying the site is not reachable. However, I can access other websites without any issues. I've tried clearing the browser cache, disabling browser extensions, and flushing DNS, but the problem persists. I need assistance in troubleshooting this website accessibility problem."
+    },
+    {
+        "label": "Service Desk.",
+        "text": "I accidentally deleted an important email from my inbox, and I need to recover it. I've checked the trash folder, but the email is not there. The email contains vital information that I require for an upcoming meeting. Please guide me on how to recover deleted emails or suggest any alternative methods to retrieve the email."
+    },
+    {
+        "label": "Networking.",
+        "text": "I'm experiencing frequent disconnections from the Wi-Fi network. My device keeps losing the connection to the internet, and I have to reconnect multiple times throughout the day. I've tried resetting the Wi-Fi router, updating the device drivers, and changing the network channel, but the issue persists. This problem is disrupting my work and online activities, and I need help in resolving this connectivity issue."
+    },
+    {
+        "label": "Service Desk.",
+        "text": "I'm unable to access a shared network drive on my computer. Whenever I try to open files from the network drive, I receive an error message saying 'Access Denied.' I have the necessary permissions to access the drive, and other colleagues can access it without any issues. I've already checked the network connections and verified the drive's permissions, but I still can't access it. Please assist me in troubleshooting and gaining access to the network drive."
+    },
+    {
+        "label": "Security.",
+        "text": "I suspect my computer is infected with malware. I've noticed unusual behavior such as frequent pop-up ads, slow performance, and unexpected system crashes. I've run a basic antivirus scan, but it didn't detect anything. I need help in performing a thorough malware scan, removing any detected threats, and ensuring the security of my computer and data."
+    },
+    {
+        "label": "System Administration.",
+        "text": "I'm encountering an error message when trying to install a software update on my computer. The error says 'Installation Failed: Error Code 0x800F0922.' I've tried restarting the computer, disabling antivirus software, and running the Windows Update Troubleshooter, but the update still won't install. This issue is preventing me from accessing new features and security enhancements. I need assistance in resolving this update installation error."
+    },
+    {
+        "label": "Applications.",
+        "text": "I'm having trouble accessing a specific application on my computer. Every time I try to open it, I receive an error message stating 'Application.exe has encountered a problem and needs to close.' I've already reinstalled the application and checked for compatibility issues, but the problem persists. This application is essential for my work, and I need help in troubleshooting and fixing the application launch error."
+    },
+    {
+        "label": "Hardware.",
+        "text": "My laptop's battery is not holding a charge. Even after leaving it plugged in for hours, the battery drains quickly as soon as I unplug the charger. I've tried calibrating the battery, updating the BIOS, and adjusting power settings, but the problem remains. This issue is limiting the portability of my laptop, and I need assistance in resolving the battery charging problem."
+    },
+    {
+        "label": "Networking.",
+        "text": "I can't connect my phone to Wi-Fi. It keeps asking for a password, but I don't remember it."
+    },
+    {
+        "label": "Service Desk.",
+        "text": "My computer screen is flickering and showing weird colors. I don't know what happened."
+    },
+    {
+        "label": "Security.",
+        "text": "I keep getting strange emails with suspicious attachments. I'm worried about opening them."
+    },
+    {
+        "label": "System Administration.",
+        "text": "I accidentally deleted an important folder on my desktop. Can I recover it somehow?"
+    },
+    {
+        "label": "Applications.",
+        "text": "Whenever I try to open Microsoft Word, it freezes and stops responding. I can't use it at all."
+    },
+    {
+        "label": "Hardware.",
+        "text": "My laptop gets really hot, and the fan is making loud noises. It's uncomfortable to use."
+    },
+    {
+        "label": "Security.",
+        "text": "I think my computer has a virus. It's running slower than usual, and weird things keep happening."
+    },
+    {
+        "label": "Audio Visual.",
+        "text": "The sound on my computer is distorted. It crackles and sounds really strange."
+    },
+    {
+        "label": "Networking.",
+        "text": "My smart TV won't connect to the internet anymore. It used to work fine before."
+    },
+    {
+        "label": "Service Desk.",
+        "text": "I accidentally closed a document without saving it. Can I get it back somehow?"
+    },
+    {
+        "label": "Security.",
+        "text": "I received a pop-up message on my computer saying I have a virus. What should I do?"
+    },
+    {
+        "label": "System Administration.",
+        "text": "I'm trying to install a new program, but it keeps giving me error messages. I don't understand them."
+    },
+    {
+        "label": "Applications.",
+        "text": "I can't print anything from my computer. The printer doesn't respond when I try to print."
+    },
+    {
+        "label": "Hardware.",
+        "text": "My computer keeps shutting down by itself. It's really frustrating."
+    },
+    {
+        "label": "Security.",
+        "text": "I clicked on a link in an email, and now my browser is showing weird websites. I'm scared I got hacked."
+    },
+    {
+        "label": "Audio Visual.",
+        "text": "I plugged in my headphones, but I can't hear anything. There's no sound."
+    },
+    {
+        "label": "Networking.",
+        "text": "My internet is really slow, and it takes forever to load web pages."
+    },
+    {
+        "label": "Service Desk.",
+        "text": "I can't find my files on the computer. They were here yesterday, but now they're gone."
+    },
+    {
+        "label": "Security.",
+        "text": "I keep getting annoying pop-up ads on my computer, even when I'm not browsing the internet."
+    },
+    {
+        "label": "System Administration.",
+        "text": "I accidentally changed some settings on my computer, and now everything looks different. I want it back to how it was."
+    },
+    {
+        "label": "Applications.",
+        "text": "I tried to open a file, but my computer says it doesn't have the right program. What should I do?"
+    },
+    {
+        "label": "Hardware.",
+        "text": "My computer won't turn on. I press the power button, but nothing happens."
+    },
+    {
+        "label": "Security.",
+        "text": "I received an email from my bank asking for my account details. Is it safe to reply?"
+    },
+    {
+        "label": "Audio Visual.",
+        "text": "I connected my computer to the TV, but the screen is black. There's no picture."
+    },
+    {
+        "label": "Networking.",
+        "text": "I can't send or receive emails on my phone. It says there's an error with the email server."
+    },
+    {
+        "label": "Service Desk.",
+        "text": "I can't remember my computer password, and now I can't log in. Is there a way to reset it?"
+    },
+    {
+        "label": "Security.",
+        "text": "My computer is acting strange, and I think someone might be spying on me. Can you check if there's a hidden camera?"
+    },
+    {
+        "label": "System Administration.",
+        "text": "I accidentally uninstalled a program, and now I can't use it anymore. Can I reinstall it somehow?"
+    },
+    {
+        "label": "Applications.",
+        "text": "I can't open my photo editing software. It says there's an error, but I don't know what it means."
+    },
+    {
+        "label": "Hardware.",
+        "text": "My mouse cursor is moving erratically on the screen. It's hard to control."
+    },
+    {
+        "label": "Security.",
+        "text": "I received a message on my computer saying my files are encrypted, and I have to pay to unlock them. What should I do?"
+    },
+    {
+        "label": "Audio Visual.",
+        "text": "I tried to play a video on my computer, but there's no sound. The volume is turned up."
+    },
+    {
+        "label": "Networking.",
+        "text": "I'm trying to set up a Wi-Fi connection on my new tablet, but I don't know the password."
+    },
+    {
+        "label": "Service Desk.",
+        "text": "I accidentally deleted an important email, and I need it for work. Can I recover it somehow?"
+    },
+    {
+        "label": "Security.",
+        "text": "I keep getting pop-ups on my computer saying I won a prize. Is it real or a scam?"
+    },
+    {
+        "label": "System Administration.",
+        "text": "I'm trying to install a software update, but it's taking forever. Can I cancel it?"
+    },
+    {
+        "label": "Applications.",
+        "text": "I tried to install a new program, but my computer says it's not allowed. Why is that?"
+    },
+    {
+        "label": "Hardware.",
+        "text": "My computer screen is black, and I can't see anything. It was working fine before."
+    },
+    {
+        "label": "Security.",
+        "text": "I received an email with an attachment, but I'm not sure if it's safe to open it."
+    },
+    {
+        "label": "Audio Visual.",
+        "text": "I connected my camera to the computer, but it's not recognizing it. I can't transfer my photos."
+    },
+    {
+        "label": "Networking.",
+        "text": "I'm trying to join a video call, but it keeps freezing and disconnecting. I can't hear or see anyone."
+    },
+    {
+        "label": "Service Desk.",
+        "text": "I accidentally moved a file to a different folder, and now I can't find it. Where did it go?"
+    },
+    {
+        "label": "Security.",
+        "text": "I received a message on my computer saying I have a virus and need to call a number. Should I do it?"
+    },
+    {
+        "label": "System Administration.",
+        "text": "I'm trying to change my computer's wallpaper, but it's not working. The new image doesn't show up."
+    },
+    {
+        "label": "Applications.",
+        "text": "I can't open my spreadsheet program. It crashes every time I try to open a file."
+    },
+    {
+        "label": "Hardware.",
+        "text": "My computer is making strange beeping sounds when I turn it on. I'm not sure what it means."
+    },
+    {
+        "label": "Security.",
+        "text": "I received an email asking for my credit card information. Should I provide it?"
+    },
+    {
+        "label": "Audio Visual.",
+        "text": "I'm trying to watch a DVD on my computer, but it's not playing. The drive doesn't recognize it."
+    },
+    {
+        "label": "Networking.",
+        "text": "My internet browser is showing a 'Page Not Found' error for every website I try to visit."
+    },
+    {
+        "label": "Service Desk.",
+        "text": "I accidentally closed a document without saving it, and I lost all my changes. Can I recover the previous version?"
+    },
+    {
+        "label": "Security.",
+        "text": "I received a message on my computer saying I won a prize. Is it real or a scam?"
+    },
+    {
+        "label": "System Administration.",
+        "text": "I'm trying to install a software update, but it keeps giving me error messages. I don't understand them."
+    },
+    {
+        "label": "Applications.",
+        "text": "I can't print anything from my computer. The printer doesn't respond when I try to print."
+    },
+    {
+        "label": "Hardware.",
+        "text": "My computer keeps shutting down by itself. It's really frustrating."
+    },
+    {
+        "label": "Security.",
+        "text": "I clicked on a link in an email, and now my browser is showing weird websites. I'm scared I got hacked."
+    },
+    {
+        "label": "Audio Visual.",
+        "text": "I plugged in my headphones, but I can't hear anything. There's no sound."
+    },
+    {
+        "label": "Networking.",
+        "text": "My internet is really slow, and it takes forever to load web pages."
+    },
+    {
+        "label": "Service Desk.",
+        "text": "I can't find my files on the computer. They were here yesterday, but now they're gone."
+    },
+    {
+        "label": "Security.",
+        "text": "I keep getting annoying pop-up ads on my computer, even when I'm not browsing the internet."
+    },
+    {
+        "label": "System Administration.",
+        "text": "I accidentally changed some settings on my computer, and now everything looks different. I want it back to how it was."
+    },
+    {
+        "label": "Applications.",
+        "text": "I tried to open a file, but my computer says it doesn't have the right program. What should I do?"
+    },
+    {
+        "label": "Hardware.",
+        "text": "My computer won't turn on. I press the power button, but nothing happens."
+    },
+    {
+        "label": "Security.",
+        "text": "I received an email from my bank asking for my account details. Is it safe to reply?"
+    },
+    {
+        "label": "Audio Visual.",
+        "text": "I connected my computer to the TV, but the screen is black. There's no picture."
+    },
+    {
+        "label": "Networking.",
+        "text": "My internet is not working on my laptop. It says 'Limited or no connectivity.'"
+    },
+    {
+        "label": "Service Desk.",
+        "text": "I accidentally deleted an important email from my inbox. Can I recover it somehow?"
+    },
+    {
+        "label": "Security.",
+        "text": "I keep getting strange error messages on my computer, and it's running really slow."
+    },
+    {
+        "label": "System Administration.",
+        "text": "I'm trying to change my computer's background wallpaper, but it's not working."
+    },
+    {
+        "label": "Applications.",
+        "text": "I can't open my word processing program. It just shows a blank screen."
+    },
+    {
+        "label": "Hardware.",
+        "text": "My computer keeps freezing randomly, and I have to restart it to make it work again."
+    },
+    {
+        "label": "Security.",
+        "text": "I received an email with an attachment, but I'm not sure if it's safe to open it."
+    },
+    {
+        "label": "Audio Visual.",
+        "text": "I connected my camera to the computer, but it's not recognizing it. I can't transfer my photos."
+    },
+    {
+        "label": "Networking.",
+        "text": "I can't join the Wi-Fi network on my phone. It keeps saying 'Authentication failed.'"
+    },
+    {
+        "label": "Service Desk.",
+        "text": "I accidentally deleted a file from my computer, and I emptied the recycle bin. Can I get it back?"
+    },
+    {
+        "label": "Security.",
+        "text": "I received a message on my computer saying I have a virus and need to call a number. Is it real?"
+    },
+    {
+        "label": "System Administration.",
+        "text": "I'm trying to install a new program, but it keeps giving me error messages. I don't know what to do."
+    },
+    {
+        "label": "Applications.",
+        "text": "I can't open my photo editing software. It crashes as soon as I try to open it."
+    },
+    {
+        "label": "Hardware.",
+        "text": "My computer screen is flickering, and the colors look weird. I don't know why it's happening."
+    },
+    {
+        "label": "Security.",
+        "text": "I received an email asking for my credit card information. Should I provide it?"
+    },
+    {
+        "label": "Audio Visual.",
+        "text": "I'm trying to watch a movie on my computer, but the video is stuttering. It's not smooth."
+    },
+    {
+        "label": "Networking.",
+        "text": "My internet connection keeps dropping, and I have to reconnect every few minutes."
+    },
+    {
+        "label": "Service Desk.",
+        "text": "I can't find my files on the computer. They were here yesterday, but now they're gone."
+    },
+    {
+        "label": "Security.",
+        "text": "I keep getting annoying pop-up ads on my computer, even when I'm not browsing the internet."
+    },
+    {
+        "label": "System Administration.",
+        "text": "I accidentally changed some settings on my computer, and now everything looks different. I want it back to how it was."
+    },
+    {
+        "label": "Applications.",
+        "text": "I tried to open a file, but my computer says it doesn't have the right program. What should I do?"
+    },
+    {
+        "label": "Hardware.",
+        "text": "My computer won't turn on. I press the power button, but nothing happens."
+    },
+    {
+        "label": "Security.",
+        "text": "I received an email from my bank asking for my account details. Is it safe to reply?"
+    },
+    {
+        "label": "Audio Visual.",
+        "text": "I connected my computer to the TV, but the screen is black. There's no picture."
+    },
+    {
+        "label": "Networking.",
+        "text": "My internet is not working on my laptop. It says 'Limited or no connectivity.'"
+    },
+    {
+        "label": "Service Desk.",
+        "text": "I accidentally deleted an important email from my inbox. Can I recover it somehow?"
+    },
+    {
+        "label": "Security.",
+        "text": "I keep getting strange error messages on my computer, and it's running really slow."
+    },
+    {
+        "label": "System Administration.",
+        "text": "I'm trying to change my computer's background wallpaper, but it's not working."
+    },
+    {
+        "label": "Applications.",
+        "text": "I can't open my word processing program. It just shows a blank screen."
+    },
+    {
+        "label": "Hardware.",
+        "text": "My computer keeps freezing randomly, and I have to restart it to make it work again."
+    },
+    {
+        "label": "Security.",
+        "text": "I received an email with an attachment, but I'm not sure if it's safe to open it."
+    },
+    {
+        "label": "Audio Visual.",
+        "text": "I connected my camera to the computer, but it's not recognizing it. I can't transfer my photos."
+    },
+    {
+        "label": "Networking.",
+        "text": "I can't join the Wi-Fi network on my phone. It keeps saying 'Authentication failed.'"
+    },
+    {
+        "label": "Service Desk.",
+        "text": "I accidentally deleted a file from my computer, and I emptied the recycle bin. Can I get it back?"
+    },
+    {
+        "label": "Security.",
+        "text": "I received a message on my computer saying I have a virus and need to call a number. Is it real?"
+    },
+    {
+        "label": "System Administration.",
+        "text": "I'm trying to install a new program, but it keeps giving me error messages. I don't know what to do."
+    },
+    {
+        "label": "Applications.",
+        "text": "I can't open my photo editing software. It crashes as soon as I try to open it."
+    },
+    {
+        "label": "Hardware.",
+        "text": "My computer screen is flickering, and the colors look weird. I don't know why it's happening."
+    },
+    {
+        "label": "Security.",
+        "text": "I received an email asking for my credit card information. Should I provide it?"
+    },
+    {
+        "label": "Audio Visual.",
+        "text": "I'm trying to watch a movie on my computer, but the video is stuttering. It's not smooth."
+    },
+    {
+        "label": "Networking.",
+        "text": "My internet connection keeps dropping, and I have to reconnect every few minutes."
+    },
+    {
+        "label": "Service Desk.",
+        "text": "I can't find my files on the computer. They were here yesterday, but now they're gone."
+    },
+    {
+        "label": "Security.",
+        "text": "I keep getting annoying pop-up ads on my computer, even when I'm not browsing the internet."
+    },
+    {
+        "label": "System Administration.",
+        "text": "I accidentally changed some settings on my computer, and now everything looks different. I want it back to how it was."
+    },
+    {
+        "label": "Applications.",
+        "text": "I tried to open a file, but my computer says it doesn't have the right program. What should I do?"
+    },
+    {
+        "label": "Hardware.",
+        "text": "My computer won't turn on. I press the power button, but nothing happens."
+    },
+    {
+        "label": "Security.",
+        "text": "I received an email from my bank asking for my account details. Is it safe to reply?"
+    },
+    {
+        "label": "Audio Visual.",
+        "text": "I connected my computer to the TV, but the screen is black. There's no picture."
+    },
+    {
+        "label": "Networking.",
+        "text": "My internet is not working on my laptop. It says 'Limited or no connectivity.'"
+    },
+    {
+        "label": "Service Desk.",
+        "text": "I accidentally deleted an important email from my inbox. Can I recover it somehow?"
+    },
+    {
+        "label": "Security.",
+        "text": "I keep getting strange error messages on my computer, and it's running really slow."
+    },
+    {
+        "label": "System Administration.",
+        "text": "I'm trying to change my computer's background wallpaper, but it's not working."
+    },
+    {
+        "label": "Applications.",
+        "text": "I can't open my word processing program. It just shows a blank screen."
+    },
+    {
+        "label": "Hardware.",
+        "text": "My computer keeps freezing randomly, and I have to restart it to make it work again."
+    },
+    {
+        "label": "Security.",
+        "text": "I received an email with an attachment, but I'm not sure if it's safe to open it."
+    },
+    {
+        "label": "Audio Visual.",
+        "text": "I connected my camera to the computer, but it's not recognizing it. I can't transfer my photos."
+    },
+    {
+        "label": "Networking.",
+        "text": "I can't join the Wi-Fi network on my phone. It keeps saying 'Authentication failed.'"
+    },
+    {
+        "label": "Service Desk.",
+        "text": "I accidentally deleted a file from my computer, and I emptied the recycle bin. Can I get it back?"
+    },
+    {
+        "label": "Security.",
+        "text": "I received a message on my computer saying I have a virus and need to call a number. Is it real?"
+    },
+    {
+        "label": "System Administration.",
+        "text": "I'm trying to install a new program, but it keeps giving me error messages. I don't know what to do."
+    },
+    {
+        "label": "Applications.",
+        "text": "I can't open my photo editing software. It crashes as soon as I try to open it."
+    },
+    {
+        "label": "Hardware.",
+        "text": "My computer screen is flickering, and the colors look weird. I don't know why it's happening."
+    },
+    {
+        "label": "Security.",
+        "text": "I received an email asking for my credit card information. Should I provide it?"
+    },
+    {
+        "label": "Audio Visual.",
+        "text": "I'm trying to watch a movie on my computer, but the video is stuttering. It's not smooth."
+    },
+    {
+        "label": "Networking.",
+        "text": "My internet connection keeps dropping, and I have to reconnect every few minutes."
+    },
+    {
+        "label": "Service Desk.",
+        "text": "I can't find my files on the computer. They were here yesterday, but now they're gone."
+    },
+    {
+        "label": "Security.",
+        "text": "I keep getting annoying pop-up ads on my computer, even when I'm not browsing the internet."
+    },
+    {
+        "label": "System Administration.",
+        "text": "I accidentally changed some settings on my computer, and now everything looks different. I want it back to how it was."
+    },
+    {
+        "label": "Applications.",
+        "text": "I tried to open a file, but my computer says it doesn't have the right program. What should I do?"
+    },
+    {
+        "label": "Hardware.",
+        "text": "My computer won't turn on. I press the power button, but nothing happens."
+    },
+    {
+        "label": "Security.",
+        "text": "I received an email from my bank asking for my account details. Is it safe to reply?"
+    },
+    {
+        "label": "Audio Visual.",
+        "text": "I connected my computer to the TV, but the screen is black. There's no picture."
+    },
+    {
+        "label": "Networking.",
+        "text": "My internet is not working on my laptop. It says 'Limited or no connectivity.'"
+    },
+    {
+        "label": "Service Desk.",
+        "text": "I accidentally deleted an important email from my inbox. Can I recover it somehow?"
+    },
+    {
+        "label": "Security.",
+        "text": "I keep getting strange error messages on my computer, and it's running really slow."
+    },
+    {
+        "label": "System Administration.",
+        "text": "I'm trying to change my computer's background wallpaper, but it's not working."
+    },
+    {
+        "label": "Applications.",
+        "text": "I can't open my word processing program. It just shows a blank screen."
+    },
+    {
+        "label": "Hardware.",
+        "text": "My computer keeps freezing randomly, and I have to restart it to make it work again."
+    },
+    {
+        "label": "Security.",
+        "text": "I received an email with an attachment, but I'm not sure if it's safe to open it."
+    },
+    {
+        "label": "Audio Visual.",
+        "text": "I connected my camera to the computer, but it's not recognizing it. I can't transfer my photos."
+    },
+    {
+        "label": "Networking.",
+        "text": "I can't join the Wi-Fi network on my phone. It keeps saying 'Authentication failed.'"
+    },
+    {
+        "label": "Service Desk.",
+        "text": "I accidentally deleted a file from my computer, and I emptied the recycle bin. Can I get it back?"
+    },
+    {
+        "label": "Security.",
+        "text": "I received a message on my computer saying I have a virus and need to call a number. Is it real?"
+    },
+    {
+        "label": "System Administration.",
+        "text": "I'm trying to install a new program, but it keeps giving me error messages. I don't know what to do."
+    },
+    {
+        "label": "Applications.",
+        "text": "I can't open my photo editing software. It crashes as soon as I try to open it."
+    },
+    {
+        "label": "Hardware.",
+        "text": "My computer screen is flickering, and the colors look weird. I don't know why it's happening."
+    },
+    {
+        "label": "Security.",
+        "text": "I received an email asking for my credit card information. Should I provide it?"
+    },
+    {
+        "label": "Audio Visual.",
+        "text": "I'm trying to watch a movie on my computer, but the video is stuttering. It's not smooth."
+    },
+    {
+        "label": "Networking.",
+        "text": "My internet connection keeps dropping, and I have to reconnect every few minutes."
+    },
+    {
+        "label": "Service Desk.",
+        "text": "I can't find my files on the computer. They were here yesterday, but now they're gone."
+    },
+    {
+        "label": "Security.",
+        "text": "I keep getting annoying pop-up ads on my computer, even when I'm not browsing the internet."
+    },
+    {
+        "label": "System Administration.",
+        "text": "I accidentally changed some settings on my computer, and now everything looks different. I want it back to how it was."
+    },
+    {
+        "label": "Applications.",
+        "text": "I tried to open a file, but my computer says it doesn't have the right program. What should I do?"
+    },
+    {
+        "label": "Hardware.",
+        "text": "My computer won't turn on. I press the power button, but nothing happens."
+    },
+    {
+        "label": "Security.",
+        "text": "I received an email from my bank asking for my account details. Is it safe to reply?"
+    },
+    {
+        "label": "Audio Visual.",
+        "text": "I connected my computer to the TV, but the screen is black. There's no picture."
+    },
+    {
+        "label": "Networking.",
+        "text": "My internet is not working on my laptop. It says 'Limited or no connectivity.'"
+    },
+    {
+        "label": "Service Desk.",
+        "text": "I accidentally deleted an important email from my inbox. Can I recover it somehow?"
+    },
+    {
+        "label": "Security.",
+        "text": "I keep getting strange error messages on my computer, and it's running really slow."
+    },
+    {
+        "label": "System Administration.",
+        "text": "I'm trying to change my computer's background wallpaper, but it's not working."
+    },
+    {
+        "label": "Applications.",
+        "text": "I can't open my word processing program. It just shows a blank screen."
+    },
+    {
+        "label": "Hardware.",
+        "text": "My computer keeps freezing randomly, and I have to restart it to make it work again."
+    },
+    {
+        "label": "Security.",
+        "text": "I received an email with an attachment, but I'm not sure if it's safe to open it."
+    },
+    {
+        "label": "Audio Visual.",
+        "text": "I connected my camera to the computer, but it's not recognizing it. I can't transfer my photos."
+    },
+    {
+        "label": "Networking.",
+        "text": "I can't join the Wi-Fi network on my phone. It keeps saying 'Authentication failed.'"
+    },
+    {
+        "label": "Service Desk.",
+        "text": "I accidentally deleted a file from my computer, and I emptied the recycle bin. Can I get it back?"
+    },
+    {
+        "label": "Security.",
+        "text": "I received a message on my computer saying I have a virus and need to call a number. Is it real?"
+    },
+    {
+        "label": "System Administration.",
+        "text": "I'm trying to install a new program, but it keeps giving me error messages. I don't know what to do."
+    },
+    {
+        "label": "Applications.",
+        "text": "I can't open my photo editing software. It crashes as soon as I try to open it."
+    },
+    {
+        "label": "Hardware.",
+        "text": "My computer screen is flickering, and the colors look weird. I don't know why it's happening."
+    },
+    {
+        "label": "Security.",
+        "text": "I received an email asking for my credit card information. Should I provide it?"
+    },
+    {
+        "label": "Audio Visual.",
+        "text": "I'm trying to watch a movie on my computer, but the video is stuttering. It's not smooth."
+    },
+    {
+        "label": "Networking.",
+        "text": "My internet connection keeps dropping, and I have to reconnect every few minutes."
+    },
+    {
+        "label": "Service Desk.",
+        "text": "I can't find my files on the computer. They were here yesterday, but now they're gone."
+    },
+    {
+        "label": "Security.",
+        "text": "I keep getting annoying pop-up ads on my computer, even when I'm not browsing the internet."
+    },
+    {
+        "label": "System Administration.",
+        "text": "I accidentally changed some settings on my computer, and now everything looks different. I want it back to how it was."
+    },
+    {
+        "label": "Applications.",
+        "text": "I tried to open a file, but my computer says it doesn't have the right program. What should I do?"
+    },
+    {
+        "label": "Hardware.",
+        "text": "My computer won't turn on. I press the power button, but nothing happens."
+    },
+    {
+        "label": "Security.",
+        "text": "I received an email from my bank asking for my account details. Is it safe to reply?"
+    },
+    {
+        "label": "Audio Visual.",
+        "text": "I connected my computer to the TV, but the screen is black. There's no picture."
+    },
+    {
+        "label": "Networking.",
+        "text": "My internet is not working on my laptop. It says 'Limited or no connectivity.'"
+    },
+    {
+        "label": "Service Desk.",
+        "text": "I accidentally deleted an important email from my inbox. Can I recover it somehow?"
+    },
+    {
+        "label": "Security.",
+        "text": "I keep getting strange error messages on my computer, and it's running really slow."
+    },
+    {
+        "label": "System Administration.",
+        "text": "I'm trying to change my computer's background wallpaper, but it's not working."
+    },
+    {
+        "label": "Applications.",
+        "text": "I can't open my word processing program. It just shows a blank screen."
+    },
+    {
+        "label": "Hardware.",
+        "text": "My computer keeps freezing randomly, and I have to restart it to make it work again."
+    },
+    {
+        "label": "Security.",
+        "text": "I received an email with an attachment, but I'm not sure if it's safe to open it."
+    },
+    {
+        "label": "Audio Visual.",
+        "text": "I connected my camera to the computer, but it's not recognizing it. I can't transfer my photos."
+    },
+    {
+        "label": "Networking.",
+        "text": "I can't join the Wi-Fi network on my phone. It keeps saying 'Authentication failed.'"
+    },
+    {
+        "label": "Service Desk.",
+        "text": "I accidentally deleted a file from my computer, and I emptied the recycle bin. Can I get it back?"
+    },
+    {
+        "label": "Security.",
+        "text": "I received a message on my computer saying I have a virus and need to call a number. Is it real?"
+    },
+    {
+        "label": "System Administration.",
+        "text": "I'm trying to install a new program, but it keeps giving me error messages. I don't know what to do."
+    },
+    {
+        "label": "Applications.",
+        "text": "I can't open my photo editing software. It crashes as soon as I try to open it."
+    },
+    {
+        "label": "Hardware.",
+        "text": "My computer screen is flickering, and the colors look weird. I don't know why it's happening."
+    },
+    {
+        "label": "Security.",
+        "text": "I received an email asking for my credit card information. Should I provide it?"
+    },
+    {
+        "label": "Audio Visual.",
+        "text": "I'm trying to watch a movie on my computer, but the video is stuttering. It's not smooth."
+    },
+    {
+        "label": "Networking.",
+        "text": "My internet connection keeps dropping, and I have to reconnect every few minutes."
+    },
+    {
+        "label": "Service Desk.",
+        "text": "I can't find my files on the computer. They were here yesterday, but now they're gone."
+    },
+    {
+        "label": "Security.",
+        "text": "I keep getting annoying pop-up ads on my computer, even when I'm not browsing the internet."
+    },
+    {
+        "label": "System Administration.",
+        "text": "I accidentally changed some settings on my computer, and now everything looks different. I want it back to how it was."
+    },
+    {
+        "label": "Applications.",
+        "text": "I tried to open a file, but my computer says it doesn't have the right program. What should I do?"
+    },
+    {
+        "label": "Hardware.",
+        "text": "My computer won't turn on. I press the power button, but nothing happens."
+    },
+    {
+        "label": "Security.",
+        "text": "I received an email from my bank asking for my account details. Is it safe to reply?"
+    },
+    {
+        "label": "Audio Visual.",
+        "text": "I connected my computer to the TV, but the screen is black. There's no picture."
+    },
+    {
+        "label": "Networking.",
+        "text": "My internet is not working on my laptop. It says 'Limited or no connectivity.'"
+    },
+    {
+        "label": "Service Desk.",
+        "text": "I accidentally deleted an important email from my inbox. Can I recover it somehow?"
+    },
+    {
+        "label": "Security.",
+        "text": "I keep getting strange error messages on my computer, and it's running really slow."
+    },
+    {
+        "label": "System Administration.",
+        "text": "I'm trying to change my computer's background wallpaper, but it's not working."
+    },
+    {
+        "label": "Applications.",
+        "text": "I can't open my word processing program. It just shows a blank screen."
+    },
+    {
+        "label": "Hardware.",
+        "text": "My computer keeps freezing randomly, and I have to restart it to make it work again."
+    },
+    {
+        "label": "Security.",
+        "text": "I received an email with an attachment, but I'm not sure if it's safe to open it."
+    },
+    {
+        "label": "Audio Visual.",
+        "text": "I connected my camera to the computer, but it's not recognizing it. I can't transfer my photos."
+    },
+    {
+        "label": "Networking.",
+        "text": "I can't join the Wi-Fi network on my phone. It keeps saying 'Authentication failed.'"
+    },
+    {
+        "label": "Service Desk.",
+        "text": "I accidentally deleted a file from my computer, and I emptied the recycle bin. Can I get it back?"
+    },
+    {
+        "label": "Security.",
+        "text": "I received a message on my computer saying I have a virus and need to call a number. Is it real?"
+    },
+    {
+        "label": "System Administration.",
+        "text": "I'm trying to install a new program, but it keeps giving me error messages. I don't know what to do."
+    },
+    {
+        "label": "Applications.",
+        "text": "I can't open my photo editing software. It crashes as soon as I try to open it."
+    },
+    {
+        "label": "Hardware.",
+        "text": "My computer screen is flickering, and the colors look weird. I don't know why it's happening."
+    },
+    {
+        "label": "Security.",
+        "text": "I received an email asking for my credit card information. Should I provide it?"
+    },
+    {
+        "label": "Audio Visual.",
+        "text": "I'm trying to watch a movie on my computer, but the video is stuttering. It's not smooth."
+    },
+    {
+        "label": "Networking.",
+        "text": "My internet connection keeps dropping, and I have to reconnect every few minutes."
+    },
+    {
+        "label": "Service Desk.",
+        "text": "I can't find my files on the computer. They were here yesterday, but now they're gone."
+    },
+    {
+        "label": "Security.",
+        "text": "I keep getting annoying pop-up ads on my computer, even when I'm not browsing the internet."
+    },
+    {
+        "label": "System Administration.",
+        "text": "I accidentally changed some settings on my computer, and now everything looks different. I want it back to how it was."
+    },
+    {
+        "label": "Applications.",
+        "text": "I tried to open a file, but my computer says it doesn't have the right program. What should I do?"
+    },
+    {
+        "label": "Hardware.",
+        "text": "My computer won't turn on. I press the power button, but nothing happens."
+    },
+    {
+        "label": "Security.",
+        "text": "I received an email from my bank asking for my account details. Is it safe to reply?"
+    },
+    {
+        "label": "Audio Visual.",
+        "text": "I connected my computer to the TV, but the screen is black. There's no picture."
+    },
+    {
+        "label": "Networking.",
+        "text": "My internet is not working on my laptop. It says 'Limited or no connectivity.'"
+    },
+    {
+        "label": "Service Desk.",
+        "text": "I accidentally deleted an important email from my inbox. Can I recover it somehow?"
+    },
+    {
+        "label": "Security.",
+        "text": "I keep getting strange error messages on my computer, and it's running really slow."
+    },
+    {
+        "label": "System Administration.",
+        "text": "I'm trying to change my computer's background wallpaper, but it's not working."
+    },
+    {
+        "label": "Applications.",
+        "text": "I can't open my word processing program. It just shows a blank screen."
+    },
+    {
+        "label": "Hardware.",
+        "text": "My computer keeps freezing randomly, and I have to restart it to make it work again."
+    },
+    {
+        "label": "Security.",
+        "text": "I received an email with an attachment, but I'm not sure if it's safe to open it."
+    },
+    {
+        "label": "Audio Visual.",
+        "text": "I connected my camera to the computer, but it's not recognizing it. I can't transfer my photos."
+    },
+    {
+        "label": "Networking.",
+        "text": "I can't join the Wi-Fi network on my phone. It keeps saying 'Authentication failed.'"
+    },
+    {
+        "label": "Service Desk.",
+        "text": "I accidentally deleted a file from my computer, and I emptied the recycle bin. Can I get it back?"
+    },
+    {
+        "label": "Security.",
+        "text": "I received a message on my computer saying I have a virus and need to call a number. Is it real?"
+    },
+    {
+        "label": "System Administration.",
+        "text": "I'm trying to install a new program, but it keeps giving me error messages. I don't know what to do."
+    },
+    {
+        "label": "Applications.",
+        "text": "I can't open my photo editing software. It crashes as soon as I try to open it."
+    },
+    {
+        "label": "Hardware.",
+        "text": "My computer screen is flickering, and the colors look weird. I don't know why it's happening."
+    },
+    {
+        "label": "Security.",
+        "text": "I received an email asking for my credit card information. Should I provide it?"
+    },
+    {
+        "label": "Audio Visual.",
+        "text": "I'm trying to watch a movie on my computer, but the video is stuttering. It's not smooth."
+    },
+    {
+        "label": "Networking.",
+        "text": "My internet connection keeps dropping, and I have to reconnect every few minutes."
+    },
+    {
+        "label": "Service Desk.",
+        "text": "I can't find my files on the computer. They were here yesterday, but now they're gone."
+    },
+    {
+        "label": "Security.",
+        "text": "I keep getting annoying pop-up ads on my computer, even when I'm not browsing the internet."
+    },
+    {
+        "label": "System Administration.",
+        "text": "I accidentally changed some settings on my computer, and now everything looks different. I want it back to how it was."
+    },
+    {
+        "label": "Applications.",
+        "text": "I tried to open a file, but my computer says it doesn't have the right program. What should I do?"
+    },
+    {
+        "label": "Hardware.",
+        "text": "My computer won't turn on. I press the power button, but nothing happens."
+    },
+    {
+        "label": "Security.",
+        "text": "I received an email from my bank asking for my account details. Is it safe to reply?"
+    },
+    {
+        "label": "Audio Visual.",
+        "text": "I connected my computer to the TV, but the screen is black. There's no picture."
+    },
+    {
+        "label": "Networking.",
+        "text": "My internet is not working on my laptop. It says 'Limited or no connectivity.'"
+    },
+    {
+        "label": "Service Desk.",
+        "text": "I accidentally deleted an important email from my inbox. Can I recover it somehow?"
+    },
+    {
+        "label": "Security.",
+        "text": "I keep getting strange error messages on my computer, and it's running really slow."
+    },
+    {
+        "label": "System Administration.",
+        "text": "I'm trying to change my computer's background wallpaper, but it's not working."
+    },
+    {
+        "label": "Applications.",
+        "text": "I can't open my word processing program. It just shows a blank screen."
+    },
+    {
+        "label": "Hardware.",
+        "text": "My computer keeps freezing randomly, and I have to restart it to make it work again."
+    },
+    {
+        "label": "Security.",
+        "text": "I received an email with an attachment, but I'm not sure if it's safe to open it."
+    },
+    {
+        "label": "Audio Visual.",
+        "text": "I connected my camera to the computer, but it's not recognizing it. I can't transfer my photos."
+    },
+    {
+        "label": "Networking.",
+        "text": "I can't join the Wi-Fi network on my phone. It keeps saying 'Authentication failed.'"
+    },
+    {
+        "label": "Service Desk.",
+        "text": "I accidentally deleted a file from my computer, and I emptied the recycle bin. Can I get it back?"
+    },
+    {
+        "label": "Security.",
+        "text": "I received a message on my computer saying I have a virus and need to call a number. Is it real?"
+    },
+    {
+        "label": "System Administration.",
+        "text": "I'm trying to install a new program, but it keeps giving me error messages. I don't know what to do."
+    },
+    {
+        "label": "Applications.",
+        "text": "I can't open my photo editing software. It crashes as soon as I try to open it."
+    },
+    {
+        "label": "Hardware.",
+        "text": "My computer screen is flickering, and the colors look weird. I don't know why it's happening."
+    },
+    {
+        "label": "Security.",
+        "text": "I received an email asking for my credit card information. Should I provide it?"
+    },
+    {
+        "label": "Audio Visual.",
+        "text": "I'm trying to watch a movie on my computer, but the video is stuttering. It's not smooth."
+    },
+    {
+        "label": "Networking.",
+        "text": "My internet connection keeps dropping, and I have to reconnect every few minutes."
+    },
+    {
+        "label": "Service Desk.",
+        "text": "I can't find my files on the computer. They were here yesterday, but now they're gone."
+    },
+    {
+        "label": "Security.",
+        "text": "I keep getting annoying pop-up ads on my computer, even when I'm not browsing the internet."
+    },
+    {
+        "label": "System Administration.",
+        "text": "I accidentally changed some settings on my computer, and now everything looks different. I want it back to how it was."
+    },
+    {
+        "label": "Applications.",
+        "text": "I tried to open a file, but my computer says it doesn't have the right program. What should I do?"
+    },
+    {
+        "label": "Hardware.",
+        "text": "My computer won't turn on. I press the power button, but nothing happens."
+    },
+    {
+        "label": "Security.",
+        "text": "I received an email from my bank asking for my account details. Is it safe to reply?"
+    },
+    {
+        "label": "Audio Visual.",
+        "text": "I connected my computer to the TV, but the screen is black. There's no picture."
+    },
+    {
+        "label": "Networking.",
+        "text": "My internet is not working on my laptop. It says 'Limited or no connectivity.'"
+    },
+    {
+        "label": "Service Desk.",
+        "text": "I accidentally deleted an important email from my inbox. Can I recover it somehow?"
+    },
+    {
+        "label": "Security.",
+        "text": "I keep getting strange error messages on my computer, and it's running really slow."
+    },
+    {
+        "label": "System Administration.",
+        "text": "I'm trying to change my computer's background wallpaper, but it's not working."
+    },
+    {
+        "label": "Applications.",
+        "text": "I can't open my word processing program. It just shows a blank screen."
+    },
+    {
+        "label": "Hardware.",
+        "text": "My computer keeps freezing randomly, and I have to restart it to make it work again."
+    },
+    {
+        "label": "Security.",
+        "text": "I received an email with an attachment, but I'm not sure if it's safe to open it."
+    },
+    {
+        "label": "Audio Visual.",
+        "text": "I connected my camera to the computer, but it's not recognizing it. I can't transfer my photos."
+    },
+    {
+        "label": "Networking.",
+        "text": "I can't join the Wi-Fi network on my phone. It keeps saying 'Authentication failed.'"
+    },
+    {
+        "label": "Service Desk.",
+        "text": "I accidentally deleted a file from my computer, and I emptied the recycle bin. Can I get it back?"
+    },
+    {
+        "label": "Security.",
+        "text": "I received a message on my computer saying I have a virus and need to call a number. Is it real?"
+    },
+    {
+        "label": "System Administration.",
+        "text": "I'm trying to install a new program, but it keeps giving me error messages. I don't know what to do."
+    },
+    {
+        "label": "Applications.",
+        "text": "I can't open my photo editing software. It crashes as soon as I try to open it."
+    },
+    {
+        "label": "Hardware.",
+        "text": "My computer screen is flickering, and the colors look weird. I don't know why it's happening."
+    },
+    {
+        "label": "Security.",
+        "text": "I received an email asking for my credit card information. Should I provide it?"
+    },
+    {
+        "label": "Audio Visual.",
+        "text": "I'm trying to watch a movie on my computer, but the video is stuttering. It's not smooth."
+    },
+    {
+        "label": "Networking.",
+        "text": "My internet connection keeps dropping, and I have to reconnect every few minutes."
+    },
+    {
+        "label": "Service Desk.",
+        "text": "I can't find my files on the computer. They were here yesterday, but now they're gone."
+    },
+    {
+        "label": "Security.",
+        "text": "I keep getting annoying pop-up ads on my computer, even when I'm not browsing the internet."
+    },
+    {
+        "label": "System Administration.",
+        "text": "I accidentally changed some settings on my computer, and now everything looks different. I want it back to how it was."
+    },
+    {
+        "label": "Applications.",
+        "text": "I tried to open a file, but my computer says it doesn't have the right program. What should I do?"
+    },
+    {
+        "label": "Hardware.",
+        "text": "My computer won't turn on. I press the power button, but nothing happens."
+    },
+    {
+        "label": "Security.",
+        "text": "I received an email from my bank asking for my account details. Is it safe to reply?"
+    },
+    {
+        "label": "Audio Visual.",
+        "text": "I connected my computer to the TV, but the screen is black. There's no picture."
+    },
+    {
+        "label": "Networking.",
+        "text": "My internet is not working on my laptop. It says 'Limited or no connectivity.'"
+    },
+    {
+        "label": "Service Desk.",
+        "text": "I accidentally deleted an important email from my inbox. Can I recover it somehow?"
+    },
+    {
+        "label": "Security.",
+        "text": "I keep getting strange error messages on my computer, and it's running really slow."
+    },
+    {
+        "label": "System Administration.",
+        "text": "I'm trying to change my computer's background wallpaper, but it's not working."
+    },
+    {
+        "label": "Applications.",
+        "text": "I can't open my word processing program. It just shows a blank screen."
+    },
+    {
+        "label": "Hardware.",
+        "text": "My computer keeps freezing randomly, and I have to restart it to make it work again."
+    },
+    {
+        "label": "Security.",
+        "text": "I received an email with an attachment, but I'm not sure if it's safe to open it."
+    },
+    {
+        "label": "Audio Visual.",
+        "text": "I connected my camera to the computer, but it's not recognizing it. I can't transfer my photos."
+    },
+    {
+        "label": "Networking.",
+        "text": "I can't join the Wi-Fi network on my phone. It keeps saying 'Authentication failed.'"
+    },
+    {
+        "label": "Service Desk.",
+        "text": "I accidentally deleted a file from my computer, and I emptied the recycle bin. Can I get it back?"
+    },
+    {
+        "label": "Security.",
+        "text": "I received a message on my computer saying I have a virus and need to call a number. Is it real?"
+    },
+    {
+        "label": "System Administration.",
+        "text": "I'm trying to install a new program, but it keeps giving me error messages. I don't know what to do."
+    },
+    {
+        "label": "Applications.",
+        "text": "I can't open my photo editing software. It crashes as soon as I try to open it."
+    },
+    {
+        "label": "Hardware.",
+        "text": "My computer screen is flickering, and the colors look weird. I don't know why it's happening."
+    },
+    {
+        "label": "Security.",
+        "text": "I received an email asking for my credit card information. Should I provide it?"
+    },
+    {
+        "label": "Audio Visual.",
+        "text": "I'm trying to watch a movie on my computer, but the video is stuttering. It's not smooth."
+    },
+    {
+        "label": "Networking.",
+        "text": "My internet connection keeps dropping, and I have to reconnect every few minutes."
+    },
+    {
+        "label": "Service Desk.",
+        "text": "I can't find my files on the computer. They were here yesterday, but now they're gone."
+    },
+    {
+        "label": "Security.",
+        "text": "I keep getting annoying pop-up ads on my computer, even when I'm not browsing the internet."
+    },
+    {
+        "label": "System Administration.",
+        "text": "I accidentally changed some settings on my computer, and now everything looks different. I want it back to how it was."
+    },
+    {
+        "label": "Applications.",
+        "text": "I tried to open a file, but my computer says it doesn't have the right program. What should I do?"
+    },
+    {
+        "label": "Hardware.",
+        "text": "My computer won't turn on. I press the power button, but nothing happens."
+    },
+    {
+        "label": "Security.",
+        "text": "I received an email from my bank asking for my account details. Is it safe to reply?"
+    },
+    {
+        "label": "Audio Visual.",
+        "text": "I connected my computer to the TV, but the screen is black. There's no picture."
+    },
+    {
+        "label": "Networking.",
+        "text": "My internet is not working on my laptop. It says 'Limited or no connectivity.'"
+    },
+    {
+        "label": "Service Desk.",
+        "text": "I accidentally deleted an important email from my inbox. Can I recover it somehow?"
+    },
+    {
+        "label": "Security.",
+        "text": "I keep getting strange error messages on my computer, and it's running really slow."
+    },
+    {
+        "label": "System Administration.",
+        "text": "I'm trying to change my computer's background wallpaper, but it's not working."
+    },
+    {
+        "label": "Applications.",
+        "text": "I can't open my word processing program. It just shows a blank screen."
+    },
+    {
+        "label": "Hardware.",
+        "text": "My computer keeps freezing randomly, and I have to restart it to make it work again."
+    },
+    {
+        "label": "Security.",
+        "text": "I received an email with an attachment, but I'm not sure if it's safe to open it."
+    },
+    {
+        "label": "Audio Visual.",
+        "text": "I connected my camera to the computer, but it's not recognizing it. I can't transfer my photos."
+    },
+    {
+        "label": "Networking.",
+        "text": "I can't join the Wi-Fi network on my phone. It keeps saying 'Authentication failed.'"
+    },
+    {
+        "label": "Service Desk.",
+        "text": "I accidentally deleted a file from my computer, and I emptied the recycle bin. Can I get it back?"
+    },
+    {
+        "label": "Security.",
+        "text": "I received a message on my computer saying I have a virus and need to call a number. Is it real?"
+    },
+    {
+        "label": "System Administration.",
+        "text": "I'm trying to install a new program, but it keeps giving me error messages. I don't know what to do."
+    },
+    {
+        "label": "Applications.",
+        "text": "I can't open my photo editing software. It crashes as soon as I try to open it."
+    },
+    {
+        "label": "Hardware.",
+        "text": "My computer screen is flickering, and the colors look weird. I don't know why it's happening."
+    },
+    {
+        "label": "Security.",
+        "text": "I received an email asking for my credit card information. Should I provide it?"
+    },
+    {
+        "label": "Audio Visual.",
+        "text": "I'm trying to watch a movie on my computer, but the video is stuttering. It's not smooth."
+    },
+    {
+        "label": "Networking.",
+        "text": "My internet connection keeps dropping, and I have to reconnect every few minutes."
+    },
+    {
+        "label": "Service Desk.",
+        "text": "I can't find my files on the computer. They were here yesterday, but now they're gone."
+    },
+    {
+        "label": "Security.",
+        "text": "I keep getting annoying pop-up ads on my computer, even when I'm not browsing the internet."
+    },
+    {
+        "label": "System Administration.",
+        "text": "I accidentally changed some settings on my computer, and now everything looks different. I want it back to how it was."
+    },
+    {
+        "label": "Applications.",
+        "text": "I tried to open a file, but my computer says it doesn't have the right program. What should I do?"
+    },
+    {
+        "label": "Hardware.",
+        "text": "My computer won't turn on. I press the power button, but nothing happens."
+    },
+    {
+        "label": "Security.",
+        "text": "I received an email from my bank asking for my account details. Is it safe to reply?"
+    },
+    {
+        "label": "Audio Visual.",
+        "text": "I connected my computer to the TV, but the screen is black. There's no picture."
+    },
+    {
+        "label": "Networking.",
+        "text": "My internet is not working on my laptop. It says 'Limited or no connectivity.'"
+    },
+    {
+        "label": "Service Desk.",
+        "text": "I accidentally deleted an important email from my inbox. Can I recover it somehow?"
+    },
+    {
+        "label": "Security.",
+        "text": "I keep getting strange error messages on my computer, and it's running really slow."
+    },
+    {
+        "label": "System Administration.",
+        "text": "I'm trying to change my computer's background wallpaper, but it's not working."
+    },
+    {
+        "label": "Applications.",
+        "text": "I can't open my word processing program. It just shows a blank screen."
+    },
+    {
+        "label": "Hardware.",
+        "text": "My computer keeps freezing randomly, and I have to restart it to make it work again."
+    },
+    {
+        "label": "Security.",
+        "text": "I received an email with an attachment, but I'm not sure if it's safe to open it."
+    },
+    {
+        "label": "Audio Visual.",
+        "text": "I connected my camera to the computer, but it's not recognizing it. I can't transfer my photos."
+    },
+    {
+        "label": "Networking.",
+        "text": "I can't join the Wi-Fi network on my phone. It keeps saying 'Authentication failed.'"
+    },
+    {
+        "label": "Service Desk.",
+        "text": "I accidentally deleted a file from my computer, and I emptied the recycle bin. Can I get it back?"
+    },
+    {
+        "label": "Security.",
+        "text": "I received a message on my computer saying I have a virus and need to call a number. Is it real?"
+    },
+    {
+        "label": "System Administration.",
+        "text": "I'm trying to install a new program, but it keeps giving me error messages. I don't know what to do."
+    },
+    {
+        "label": "Applications.",
+        "text": "I can't open my photo editing software. It crashes as soon as I try to open it."
+    },
+    {
+        "label": "Hardware.",
+        "text": "My computer screen is flickering, and the colors look weird. I don't know why it's happening."
+    },
+    {
+        "label": "Security.",
+        "text": "I received an email asking for my credit card information. Should I provide it?"
+    },
+    {
+        "label": "Audio Visual.",
+        "text": "I'm trying to watch a movie on my computer, but the video is stuttering. It's not smooth."
+    },
+    {
+        "label": "Networking.",
+        "text": "My internet connection keeps dropping, and I have to reconnect every few minutes."
+    },
+    {
+        "label": "Service Desk.",
+        "text": "I can't find my files on the computer. They were here yesterday, but now they're gone."
+    },
+    {
+        "label": "Security.",
+        "text": "I keep getting annoying pop-up ads on my computer, even when I'm not browsing the internet."
+    },
+    {
+        "label": "System Administration.",
+        "text": "I accidentally changed some settings on my computer, and now everything looks different. I want it back to how it was."
+    },
+    {
+        "label": "Applications.",
+        "text": "I tried to open a file, but my computer says it doesn't have the right program. What should I do?"
+    },
+    {
+        "label": "Hardware.",
+        "text": "My computer won't turn on. I press the power button, but nothing happens."
+    },
+    {
+        "label": "Security.",
+        "text": "I received an email from my bank asking for my account details. Is it safe to reply?"
+    },
+    {
+        "label": "Audio Visual.",
+        "text": "I connected my computer to the TV, but the screen is black. There's no picture."
+    },
+    {
+        "label": "Networking.",
+        "text": "My internet is not working on my laptop. It says 'Limited or no connectivity.'"
+    },
+    {
+        "label": "Service Desk.",
+        "text": "I accidentally deleted an important email from my inbox. Can I recover it somehow?"
+    },
+    {
+        "label": "Security.",
+        "text": "I keep getting strange error messages on my computer, and it's running really slow."
+    },
+    {
+        "label": "System Administration.",
+        "text": "I'm trying to change my computer's background wallpaper, but it's not working."
+    },
+    {
+        "label": "Applications.",
+        "text": "I can't open my word processing program. It just shows a blank screen."
+    },
+    {
+        "label": "Hardware.",
+        "text": "My computer keeps freezing randomly, and I have to restart it to make it work again."
+    },
+    {
+        "label": "Security.",
+        "text": "I received an email with an attachment, but I'm not sure if it's safe to open it."
+    },
+    {
+        "label": "Audio Visual.",
+        "text": "I connected my camera to the computer, but it's not recognizing it. I can't transfer my photos."
+    },
+    {
+        "label": "Networking.",
+        "text": "I can't join the Wi-Fi network on my phone. It keeps saying 'Authentication failed.'"
+    },
+    {
+        "label": "Service Desk.",
+        "text": "I accidentally deleted a file from my computer, and I emptied the recycle bin. Can I get it back?"
+    },
+    {
+        "label": "Security.",
+        "text": "I received a message on my computer saying I have a virus and need to call a number. Is it real?"
+    },
+    {
+        "label": "System Administration.",
+        "text": "I'm trying to install a new program, but it keeps giving me error messages. I don't know what to do."
+    },
+    {
+        "label": "Applications.",
+        "text": "I can't open my photo editing software. It crashes as soon as I try to open it."
+    },
+    {
+        "label": "Hardware.",
+        "text": "My computer screen is flickering, and the colors look weird. I don't know why it's happening."
+    },
+    {
+        "label": "Security.",
+        "text": "I received an email asking for my credit card information. Should I provide it?"
+    },
+    {
+        "label": "Audio Visual.",
+        "text": "I'm trying to watch a movie on my computer, but the video is stuttering. It's not smooth."
+    },
+    {
+        "label": "Networking.",
+        "text": "My internet connection keeps dropping, and I have to reconnect every few minutes."
+    },
+    {
+        "label": "Service Desk.",
+        "text": "I can't find my files on the computer. They were here yesterday, but now they're gone."
+    },
+    {
+        "label": "Security.",
+        "text": "I keep getting annoying pop-up ads on my computer, even when I'm not browsing the internet."
+    },
+    {
+        "label": "System Administration.",
+        "text": "I accidentally changed some settings on my computer, and now everything looks different. I want it back to how it was."
+    },
+    {
+        "label": "Applications.",
+        "text": "I tried to open a file, but my computer says it doesn't have the right program. What should I do?"
+    },
+    {
+        "label": "Hardware.",
+        "text": "My computer won't turn on. I press the power button, but nothing happens."
+    },
+    {
+        "label": "Security.",
+        "text": "I received an email from my bank asking for my account details. Is it safe to reply?"
+    },
+    {
+        "label": "Audio Visual.",
+        "text": "I connected my computer to the TV, but the screen is black. There's no picture."
+    },
+    {
+        "label": "Networking.",
+        "text": "My internet is not working on my laptop. It says 'Limited or no connectivity.'"
+    },
+    {
+        "label": "Service Desk.",
+        "text": "I accidentally deleted an important email from my inbox. Can I recover it somehow?"
+    },
+    {
+        "label": "Security.",
+        "text": "I keep getting strange error messages on my computer, and it's running really slow."
+    },
+    {
+        "label": "System Administration.",
+        "text": "I'm trying to change my computer's background wallpaper, but it's not working."
+    },
+    {
+        "label": "Applications.",
+        "text": "I can't open my word processing program. It just shows a blank screen."
+    },
+    {
+        "label": "Hardware.",
+        "text": "My computer keeps freezing randomly, and I have to restart it to make it work again."
+    },
+    {
+        "label": "Security.",
+        "text": "I received an email with an attachment, but I'm not sure if it's safe to open it."
+    },
+    {
+        "label": "Audio Visual.",
+        "text": "I connected my camera to the computer, but it's not recognizing it. I can't transfer my photos."
+    },
+    {
+        "label": "Networking.",
+        "text": "I can't join the Wi-Fi network on my phone. It keeps saying 'Authentication failed.'"
+    },
+    {
+        "label": "Service Desk.",
+        "text": "I accidentally deleted a file from my computer, and I emptied the recycle bin. Can I get it back?"
+    },
+    {
+        "label": "Security.",
+        "text": "I received a message on my computer saying I have a virus and need to call a number. Is it real?"
+    },
+    {
+        "label": "System Administration.",
+        "text": "I'm trying to install a new program, but it keeps giving me error messages. I don't know what to do."
+    },
+    {
+        "label": "Applications.",
+        "text": "I can't open my photo editing software. It crashes as soon as I try to open it."
+    },
+    {
+        "label": "Hardware.",
+        "text": "My computer screen is flickering, and the colors look weird. I don't know why it's happening."
+    },
+    {
+        "label": "Security.",
+        "text": "I received an email asking for my credit card information. Should I provide it?"
+    },
+    {
+        "label": "Audio Visual.",
+        "text": "I'm trying to watch a movie on my computer, but the video is stuttering. It's not smooth."
+    },
+    {
+        "label": "Networking.",
+        "text": "My internet connection keeps dropping, and I have to reconnect every few minutes."
+    },
+    {
+        "label": "Service Desk.",
+        "text": "I can't find my files on the computer. They were here yesterday, but now they're gone."
+    },
+    {
+        "label": "Security.",
+        "text": "I keep getting annoying pop-up ads on my computer, even when I'm not browsing the internet."
+    },
+    {
+        "label": "System Administration.",
+        "text": "I accidentally changed some settings on my computer, and now everything looks different. I want it back to how it was."
+    },
+    {
+        "label": "Applications.",
+        "text": "I tried to open a file, but my computer says it doesn't have the right program. What should I do?"
+    },
+    {
+        "label": "Hardware.",
+        "text": "My computer won't turn on. I press the power button, but nothing happens."
+    },
+    {
+        "label": "Security.",
+        "text": "I received an email from my bank asking for my account details. Is it safe to reply?"
+    },
+    {
+        "label": "Audio Visual.",
+        "text": "I connected my computer to the TV, but the screen is black. There's no picture."
+    },
+    {
+        "label": "Networking.",
+        "text": "My internet is not working on my laptop. It says 'Limited or no connectivity.'"
+    },
+    {
+        "label": "Service Desk.",
+        "text": "I accidentally deleted an important email from my inbox. Can I recover it somehow?"
+    },
+    {
+        "label": "Security.",
+        "text": "I keep getting strange error messages on my computer, and it's running really slow."
+    },
+    {
+        "label": "System Administration.",
+        "text": "I'm trying to change my computer's background wallpaper, but it's not working."
+    },
+    {
+        "label": "Applications.",
+        "text": "I can't open my word processing program. It just shows a blank screen."
+    },
+    {
+        "label": "Hardware.",
+        "text": "My computer keeps freezing randomly, and I have to restart it to make it work again."
+    },
+    {
+        "label": "Security.",
+        "text": "I received an email with an attachment, but I'm not sure if it's safe to open it."
+    },
+    {
+        "label": "Audio Visual.",
+        "text": "I connected my camera to the computer, but it's not recognizing it. I can't transfer my photos."
+    },
+    {
+        "label": "Networking.",
+        "text": "I can't join the Wi-Fi network on my phone. It keeps saying 'Authentication failed.'"
+    },
+    {
+        "label": "Service Desk.",
+        "text": "I accidentally deleted a file from my computer, and I emptied the recycle bin. Can I get it back?"
+    },
+    {
+        "label": "Security.",
+        "text": "I received a message on my computer saying I have a virus and need to call a number. Is it real?"
+    },
+    {
+        "label": "System Administration.",
+        "text": "I'm trying to install a new program, but it keeps giving me error messages. I don't know what to do."
+    },
+    {
+        "label": "Applications.",
+        "text": "I can't open my photo editing software. It crashes as soon as I try to open it."
+    },
+    {
+        "label": "Hardware.",
+        "text": "My computer screen is flickering, and the colors look weird. I don't know why it's happening."
+    },
+    {
+        "label": "Security.",
+        "text": "I received an email asking for my credit card information. Should I provide it?"
+    },
+    {
+        "label": "Audio Visual.",
+        "text": "I'm trying to watch a movie on my computer, but the video is stuttering. It's not smooth."
+    },
+    {
+        "label": "Networking.",
+        "text": "My internet connection keeps dropping, and I have to reconnect every few minutes."
+    },
+    {
+        "label": "Service Desk.",
+        "text": "I can't find my files on the computer. They were here yesterday, but now they're gone."
+    },
+    {
+        "label": "Security.",
+        "text": "I keep getting annoying pop-up ads on my computer, even when I'm not browsing the internet."
+    },
+    {
+        "label": "System Administration.",
+        "text": "I accidentally changed some settings on my computer, and now everything looks different. I want it back to how it was."
+    },
+    {
+        "label": "Applications.",
+        "text": "I tried to open a file, but my computer says it doesn't have the right program. What should I do?"
+    },
+    {
+        "label": "Hardware.",
+        "text": "My computer won't turn on. I press the power button, but nothing happens."
+    },
+    {
+        "label": "Security.",
+        "text": "I received an email from my bank asking for my account details. Is it safe to reply?"
+    },
+    {
+        "label": "Audio Visual.",
+        "text": "I connected my computer to the TV, but the screen is black. There's no picture."
+    },
+    {
+        "label": "Networking.",
+        "text": "My internet is not working on my laptop. It says 'Limited or no connectivity.'"
+    },
+    {
+        "label": "Service Desk.",
+        "text": "I accidentally deleted an important email from my inbox. Can I recover it somehow?"
+    },
+    {
+        "label": "Security.",
+        "text": "I keep getting strange error messages on my computer, and it's running really slow."
+    },
+    {
+        "label": "System Administration.",
+        "text": "I'm trying to change my computer's background wallpaper, but it's not working."
+    },
+    {
+        "label": "Applications.",
+        "text": "I can't open my word processing program. It just shows a blank screen."
+    },
+    {
+        "label": "Hardware.",
+        "text": "My computer keeps freezing randomly, and I have to restart it to make it work again."
+    },
+    {
+        "label": "Security.",
+        "text": "I received an email with an attachment, but I'm not sure if it's safe to open it."
+    },
+    {
+        "label": "Audio Visual.",
+        "text": "I connected my camera to the computer, but it's not recognizing it. I can't transfer my photos."
+    },
+    {
+        "label": "Networking.",
+        "text": "I can't join the Wi-Fi network on my phone. It keeps saying 'Authentication failed.'"
+    },
+    {
+        "label": "Service Desk.",
+        "text": "I accidentally deleted a file from my computer, and I emptied the recycle bin. Can I get it back?"
+    },
+    {
+        "label": "Security.",
+        "text": "I received a message on my computer saying I have a virus and need to call a number. Is it real?"
+    },
+    {
+        "label": "System Administration.",
+        "text": "I'm trying to install a new program, but it keeps giving me error messages. I don't know what to do."
+    },
+    {
+        "label": "Applications.",
+        "text": "I can't open my photo editing software. It crashes as soon as I try to open it."
+    },
+    {
+        "label": "Hardware.",
+        "text": "My computer screen is flickering, and the colors look weird. I don't know why it's happening."
+    },
+    {
+        "label": "Security.",
+        "text": "I received an email asking for my credit card information. Should I provide it?"
+    },
+    {
+        "label": "Audio Visual.",
+        "text": "I'm trying to watch a movie on my computer, but the video is stuttering. It's not smooth."
+    },
+    {
+        "label": "Networking.",
+        "text": "My internet connection keeps dropping, and I have to reconnect every few minutes."
+    },
+    {
+        "label": "Service Desk.",
+        "text": "I can't find my files on the computer. They were here yesterday, but now they're gone."
+    },
+    {
+        "label": "Security.",
+        "text": "I keep getting annoying pop-up ads on my computer, even when I'm not browsing the internet."
+    },
+    {
+        "label": "System Administration.",
+        "text": "I accidentally changed some settings on my computer, and now everything looks different. I want it back to how it was."
+    },
+    {
+        "label": "Applications.",
+        "text": "I tried to open a file, but my computer says it doesn't have the right program. What should I do?"
+    },
+    {
+        "label": "Hardware.",
+        "text": "My computer won't turn on. I press the power button, but nothing happens."
+    },
+    {
+        "label": "Security.",
+        "text": "I received an email from my bank asking for my account details. Is it safe to reply?"
+    },
+    {
+        "label": "Audio Visual.",
+        "text": "I connected my computer to the TV, but the screen is black. There's no picture."
+    },
+    {
+        "label": "Networking.",
+        "text": "My internet is not working on my laptop. It says 'Limited or no connectivity.'"
+    },
+    {
+        "label": "Service Desk.",
+        "text": "I accidentally deleted an important email from my inbox. Can I recover it somehow?"
+    },
+    {
+        "label": "Security.",
+        "text": "I keep getting strange error messages on my computer, and it's running really slow."
+    },
+    {
+        "label": "System Administration.",
+        "text": "I'm trying to change my computer's background wallpaper, but it's not working."
+    },
+    {
+        "label": "Applications.",
+        "text": "I can't open my word processing program. It just shows a blank screen."
+    },
+    {
+        "label": "Hardware.",
+        "text": "My computer keeps freezing randomly, and I have to restart it to make it work again."
+    },
+    {
+        "label": "Security.",
+        "text": "I received an email with an attachment, but I'm not sure if it's safe to open it."
+    },
+    {
+        "label": "Audio Visual.",
+        "text": "I connected my camera to the computer, but it's not recognizing it. I can't transfer my photos."
+    },
+    {
+        "label": "Networking.",
+        "text": "I can't join the Wi-Fi network on my phone. It keeps saying 'Authentication failed.'"
+    },
+    {
+        "label": "Service Desk.",
+        "text": "I accidentally deleted a file from my computer, and I emptied the recycle bin. Can I get it back?"
+    },
+    {
+        "label": "Security.",
+        "text": "I received a message on my computer saying I have a virus and need to call a number. Is it real?"
+    },
+    {
+        "label": "System Administration.",
+        "text": "I'm trying to install a new program, but it keeps giving me error messages. I don't know what to do."
+    },
+    {
+        "label": "Applications.",
+        "text": "I can't open my photo editing software. It crashes as soon as I try to open it."
+    },
+    {
+        "label": "Hardware.",
+        "text": "My computer screen is flickering, and the colors look weird. I don't know why it's happening."
+    },
+    {
+        "label": "Security.",
+        "text": "I received an email asking for my credit card information. Should I provide it?"
+    },
+    {
+        "label": "Audio Visual.",
+        "text": "I'm trying to watch a movie on my computer, but the video is stuttering. It's not smooth."
+    },
+    {
+        "label": "Networking.",
+        "text": "My internet connection keeps dropping, and I have to reconnect every few minutes."
+    },
+    {
+        "label": "Service Desk.",
+        "text": "I can't find my files on the computer. They were here yesterday, but now they're gone."
+    },
+    {
+        "label": "Security.",
+        "text": "I keep getting annoying pop-up ads on my computer, even when I'm not browsing the internet."
+    },
+    {
+        "label": "System Administration.",
+        "text": "I accidentally changed some settings on my computer, and now everything looks different. I want it back to how it was."
+    },
+    {
+        "label": "Applications.",
+        "text": "I tried to open a file, but my computer says it doesn't have the right program. What should I do?"
+    },
+    {
+        "label": "Hardware.",
+        "text": "My computer won't turn on. I press the power button, but nothing happens."
+    },
+    {
+        "label": "Security.",
+        "text": "I received an email from my bank asking for my account details. Is it safe to reply?"
+    },
+    {
+        "label": "Audio Visual.",
+        "text": "I connected my computer to the TV, but the screen is black. There's no picture."
+    },
+    {
+        "label": "Networking.",
+        "text": "My internet is not working on my laptop. It says 'Limited or no connectivity.'"
+    },
+    {
+        "label": "Service Desk.",
+        "text": "I accidentally deleted an important email from my inbox. Can I recover it somehow?"
+    },
+    {
+        "label": "Security.",
+        "text": "I keep getting strange error messages on my computer, and it's running really slow."
+    },
+    {
+        "label": "System Administration.",
+        "text": "I'm trying to change my computer's background wallpaper, but it's not working."
+    },
+    {
+        "label": "Applications.",
+        "text": "I can't open my word processing program. It just shows a blank screen."
+    },
+    {
+        "label": "Hardware.",
+        "text": "My computer keeps freezing randomly, and I have to restart it to make it work again."
+    },
+    {
+        "label": "Security.",
+        "text": "I received an email with an attachment, but I'm not sure if it's safe to open it."
+    },
+    {
+        "label": "Audio Visual.",
+        "text": "I connected my camera to the computer, but it's not recognizing it. I can't transfer my photos."
+    },
+    {
+        "label": "Networking.",
+        "text": "I can't join the Wi-Fi network on my phone. It keeps saying 'Authentication failed.'"
+    },
+    {
+        "label": "Service Desk.",
+        "text": "I accidentally deleted a file from my computer, and I emptied the recycle bin. Can I get it back?"
+    },
+    {
+        "label": "Security.",
+        "text": "I received a message on my computer saying I have a virus and need to call a number. Is it real?"
+    },
+    {
+        "label": "System Administration.",
+        "text": "I'm trying to install a new program, but it keeps giving me error messages. I don't know what to do."
+    },
+    {
+        "label": "Applications.",
+        "text": "I can't open my photo editing software. It crashes as soon as I try to open it."
+    },
+    {
+        "label": "Hardware.",
+        "text": "My computer screen is flickering, and the colors look weird. I don't know why it's happening."
+    },
+    {
+        "label": "Security.",
+        "text": "I received an email asking for my credit card information. Should I provide it?"
+    },
+    {
+        "label": "Audio Visual.",
+        "text": "I'm trying to watch a movie on my computer, but the video is stuttering. It's not smooth."
+    },
+    {
+        "label": "Networking.",
+        "text": "My internet connection keeps dropping, and I have to reconnect every few minutes."
+    },
+    {
+        "label": "Service Desk.",
+        "text": "I can't find my files on the computer. They were here yesterday, but now they're gone."
+    },
+    {
+        "label": "Security.",
+        "text": "I keep getting annoying pop-up ads on my computer, even when I'm not browsing the internet."
+    },
+    {
+        "label": "System Administration.",
+        "text": "I accidentally changed some settings on my computer, and now everything looks different. I want it back to how it was."
+    },
+    {
+        "label": "Applications.",
+        "text": "I tried to open a file, but my computer says it doesn't have the right program. What should I do?"
+    },
+    {
+        "label": "Hardware.",
+        "text": "My computer won't turn on. I press the power button, but nothing happens."
+    },
+    {
+        "label": "Security.",
+        "text": "I received an email from my bank asking for my account details. Is it safe to reply?"
+    },
+    {
+        "label": "Audio Visual.",
+        "text": "I connected my computer to the TV, but the screen is black. There's no picture."
+    },
+    {
+        "label": "Networking.",
+        "text": "My internet is not working on my laptop. It says 'Limited or no connectivity.'"
+    },
+    {
+        "label": "Service Desk.",
+        "text": "I accidentally deleted an important email from my inbox. Can I recover it somehow?"
+    },
+    {
+        "label": "Security.",
+        "text": "I keep getting strange error messages on my computer, and it's running really slow."
+    },
+    {
+        "label": "System Administration.",
+        "text": "I'm trying to change my computer's background wallpaper, but it's not working."
+    },
+    {
+        "label": "Applications.",
+        "text": "I can't open my word processing program. It just shows a blank screen."
+    },
+    {
+        "label": "Hardware.",
+        "text": "My computer keeps freezing randomly, and I have to restart it to make it work again."
+    },
+    {
+        "label": "Security.",
+        "text": "I received an email with an attachment, but I'm not sure if it's safe to open it."
+    },
+    {
+        "label": "Audio Visual.",
+        "text": "I connected my camera to the computer, but it's not recognizing it. I can't transfer my photos."
+    },
+    {
+        "label": "Networking.",
+        "text": "I can't join the Wi-Fi network on my phone. It keeps saying 'Authentication failed.'"
+    },
+    {
+        "label": "Service Desk.",
+        "text": "I accidentally deleted a file from my computer, and I emptied the recycle bin. Can I get it back?"
+    },
+    {
+        "label": "Security.",
+        "text": "I received a message on my computer saying I have a virus and need to call a number. Is it real?"
+    },
+    {
+        "label": "System Administration.",
+        "text": "I'm trying to install a new program, but it keeps giving me error messages. I don't know what to do."
+    },
+    {
+        "label": "Applications.",
+        "text": "I can't open my photo editing software. It crashes as soon as I try to open it."
+    },
+    {
+        "label": "Hardware.",
+        "text": "My computer screen is flickering, and the colors look weird. I don't know why it's happening."
+    },
+    {
+        "label": "Security.",
+        "text": "I received an email asking for my credit card information. Should I provide it?"
+    },
+    {
+        "label": "Audio Visual.",
+        "text": "I'm trying to watch a movie on my computer, but the video is stuttering. It's not smooth."
+    },
+    {
+        "label": "Networking.",
+        "text": "My internet connection keeps dropping, and I have to reconnect every few minutes."
+    },
+    {
+        "label": "Service Desk.",
+        "text": "I can't find my files on the computer. They were here yesterday, but now they're gone."
+    },
+    {
+        "label": "Security.",
+        "text": "I keep getting annoying pop-up ads on my computer, even when I'm not browsing the internet."
+    },
+    {
+        "label": "System Administration.",
+        "text": "I accidentally changed some settings on my computer, and now everything looks different. I want it back to how it was."
+    },
+    {
+        "label": "Applications.",
+        "text": "I tried to open a file, but my computer says it doesn't have the right program. What should I do?"
+    },
+    {
+        "label": "Hardware.",
+        "text": "My computer won't turn on. I press the power button, but nothing happens."
+    },
+    {
+        "label": "Security.",
+        "text": "I received an email from my bank asking for my account details. Is it safe to reply?"
+    },
+    {
+        "label": "Audio Visual.",
+        "text": "I connected my computer to the TV, but the screen is black. There's no picture."
+    },
+    {
+        "label": "Networking.",
+        "text": "My internet is not working on my laptop. It says 'Limited or no connectivity.'"
+    },
+    {
+        "label": "Service Desk.",
+        "text": "I accidentally deleted an important email from my inbox. Can I recover it somehow?"
+    },
+    {
+        "label": "Security.",
+        "text": "I keep getting strange error messages on my computer, and it's running really slow."
+    },
+    {
+        "label": "System Administration.",
+        "text": "I'm trying to change my computer's background wallpaper, but it's not working."
+    },
+    {
+        "label": "Applications.",
+        "text": "I can't open my word processing program. It just shows a blank screen."
+    },
+    {
+        "label": "Hardware.",
+        "text": "My computer keeps freezing randomly, and I have to restart it to make it work again."
+    },
+    {
+        "label": "Security.",
+        "text": "I received an email with an attachment, but I'm not sure if it's safe to open it."
+    },
+    {
+        "label": "Audio Visual.",
+        "text": "I connected my camera to the computer, but it's not recognizing it. I can't transfer my photos."
+    },
+    {
+        "label": "Networking.",
+        "text": "I can't join the Wi-Fi network on my phone. It keeps saying 'Authentication failed.'"
+    },
+    {
+        "label": "Service Desk.",
+        "text": "I accidentally deleted a file from my computer, and I emptied the recycle bin. Can I get it back?"
+    },
+    {
+        "label": "Security.",
+        "text": "I received a message on my computer saying I have a virus and need to call a number. Is it real?"
+    },
+    {
+        "label": "System Administration.",
+        "text": "I'm trying to install a new program, but it keeps giving me error messages. I don't know what to do."
+    },
+    {
+        "label": "Applications.",
+        "text": "I can't open my photo editing software. It crashes as soon as I try to open it."
+    },
+    {
+        "label": "Hardware.",
+        "text": "My computer screen is flickering, and the colors look weird. I don't know why it's happening."
+    },
+    {
+        "label": "Security.",
+        "text": "I received an email asking for my credit card information. Should I provide it?"
+    },
+    {
+        "label": "Audio Visual.",
+        "text": "I'm trying to watch a movie on my computer, but the video is stuttering. It's not smooth."
+    },
+    {
+        "label": "Networking.",
+        "text": "My internet connection keeps dropping, and I have to reconnect every few minutes."
+    },
+    {
+        "label": "Service Desk.",
+        "text": "I can't find my files on the computer. They were here yesterday, but now they're gone."
+    },
+    {
+        "label": "Security.",
+        "text": "I keep getting annoying pop-up ads on my computer, even when I'm not browsing the internet."
+    },
+    {
+        "label": "System Administration.",
+        "text": "I accidentally changed some settings on my computer, and now everything looks different. I want it back to how it was."
+    },
+    {
+        "label": "Applications.",
+        "text": "I tried to open a file, but my computer says it doesn't have the right program. What should I do?"
+    },
+    {
+        "label": "Hardware.",
+        "text": "My computer won't turn on. I press the power button, but nothing happens."
+    },
+    {
+        "label": "Security.",
+        "text": "I received an email from my bank asking for my account details. Is it safe to reply?"
+    },
+    {
+        "label": "Audio Visual.",
+        "text": "I connected my computer to the TV, but the screen is black. There's no picture."
+    },
+    {
+        "label": "Networking.",
+        "text": "My internet is not working on my laptop. It says 'Limited or no connectivity.'"
+    },
+    {
+        "label": "Service Desk.",
+        "text": "I accidentally deleted an important email from my inbox. Can I recover it somehow?"
+    },
+    {
+        "label": "Security.",
+        "text": "I keep getting strange error messages on my computer, and it's running really slow."
+    },
+    {
+        "label": "System Administration.",
+        "text": "I'm trying to change my computer's background wallpaper, but it's not working."
+    },
+    {
+        "label": "Applications.",
+        "text": "I can't open my word processing program. It just shows a blank screen."
+    },
+    {
+        "label": "Hardware.",
+        "text": "My computer keeps freezing randomly, and I have to restart it to make it work again."
+    },
+    {
+        "label": "Security.",
+        "text": "I received an email with an attachment, but I'm not sure if it's safe to open it."
+    },
+    {
+        "label": "Audio Visual.",
+        "text": "I connected my camera to the computer, but it's not recognizing it. I can't transfer my photos."
+    },
+    {
+        "label": "Networking.",
+        "text": "I can't join the Wi-Fi network on my phone. It keeps saying 'Authentication failed.'"
+    },
+    {
+        "label": "Service Desk.",
+        "text": "I accidentally deleted a file from my computer, and I emptied the recycle bin. Can I get it back?"
+    },
+    {
+        "label": "Security.",
+        "text": "I received a message on my computer saying I have a virus and need to call a number. Is it real?"
+    },
+    {
+        "label": "System Administration.",
+        "text": "I'm trying to install a new program, but it keeps giving me error messages. I don't know what to do."
+    },
+    {
+        "label": "Applications.",
+        "text": "I can't open my photo editing software. It crashes as soon as I try to open it."
+    },
+    {
+        "label": "Hardware.",
+        "text": "My computer screen is flickering, and the colors look weird. I don't know why it's happening."
+    },
+    {
+        "label": "Security.",
+        "text": "I received an email asking for my credit card information. Should I provide it?"
+    },
+    {
+        "label": "Audio Visual.",
+        "text": "I'm trying to watch a movie on my computer, but the video is stuttering. It's not smooth."
+    },
+    {
+        "label": "Networking.",
+        "text": "My internet connection keeps dropping, and I have to reconnect every few minutes."
+    },
+    {
+        "label": "Service Desk.",
+        "text": "I can't find my files on the computer. They were here yesterday, but now they're gone."
+    },
+    {
+        "label": "Security.",
+        "text": "I keep getting annoying pop-up ads on my computer, even when I'm not browsing the internet."
+    },
+    {
+        "label": "System Administration.",
+        "text": "I accidentally changed some settings on my computer, and now everything looks different. I want it back to how it was."
+    },
+    {
+        "label": "Applications.",
+        "text": "I tried to open a file, but my computer says it doesn't have the right program. What should I do?"
+    },
+    {
+        "label": "Hardware.",
+        "text": "My computer won't turn on. I press the power button, but nothing happens."
+    },
+    {
+        "label": "Security.",
+        "text": "I received an email from my bank asking for my account details. Is it safe to reply?"
+    },
+    {
+        "label": "Audio Visual.",
+        "text": "I connected my computer to the TV, but the screen is black. There's no picture."
+    },
+    {
+        "label": "Networking.",
+        "text": "My internet is not working on my laptop. It says 'Limited or no connectivity.'"
+    },
+    {
+        "label": "Service Desk.",
+        "text": "I accidentally deleted an important email from my inbox. Can I recover it somehow?"
+    },
+    {
+        "label": "Security.",
+        "text": "I keep getting strange error messages on my computer, and it's running really slow."
+    },
+    {
+        "label": "System Administration.",
+        "text": "I'm trying to change my computer's background wallpaper, but it's not working."
+    },
+    {
+        "label": "Applications.",
+        "text": "I can't open my word processing program. It just shows a blank screen."
+    },
+    {
+        "label": "Hardware.",
+        "text": "My computer keeps freezing randomly, and I have to restart it to make it work again."
+    },
+    {
+        "label": "Security.",
+        "text": "I received an email with an attachment, but I'm not sure if it's safe to open it."
+    },
+    {
+        "label": "Audio Visual.",
+        "text": "I connected my camera to the computer, but it's not recognizing it. I can't transfer my photos."
+    },
+    {
+        "label": "Networking.",
+        "text": "I can't join the Wi-Fi network on my phone. It keeps saying 'Authentication failed.'"
+    },
+    {
+        "label": "Service Desk.",
+        "text": "I accidentally deleted a file from my computer, and I emptied the recycle bin. Can I get it back?"
+    },
+    {
+        "label": "Security.",
+        "text": "I received a message on my computer saying I have a virus and need to call a number. Is it real?"
+    },
+    {
+        "label": "System Administration.",
+        "text": "I'm trying to install a new program, but it keeps giving me error messages. I don't know what to do."
+    },
+    {
+        "label": "Applications.",
+        "text": "I can't open my photo editing software. It crashes as soon as I try to open it."
+    },
+    {
+        "label": "Hardware.",
+        "text": "My computer screen is flickering, and the colors look weird. I don't know why it's happening."
+    },
+    {
+        "label": "Security.",
+        "text": "I received an email asking for my credit card information. Should I provide it?"
+    },
+    {
+        "label": "Audio Visual.",
+        "text": "I'm trying to watch a movie on my computer, but the video is stuttering. It's not smooth."
+    },
+    {
+        "label": "Networking.",
+        "text": "My internet connection keeps dropping, and I have to reconnect every few minutes."
+    },
+    {
+        "label": "Service Desk.",
+        "text": "I can't find my files on the computer. They were here yesterday, but now they're gone."
+    },
+    {
+        "label": "Security.",
+        "text": "I keep getting annoying pop-up ads on my computer, even when I'm not browsing the internet."
+    },
+    {
+        "label": "System Administration.",
+        "text": "I accidentally changed some settings on my computer, and now everything looks different. I want it back to how it was."
+    },
+    {
+        "label": "Applications.",
+        "text": "I tried to open a file, but my computer says it doesn't have the right program. What should I do?"
+    },
+    {
+        "label": "Hardware.",
+        "text": "My computer won't turn on. I press the power button, but nothing happens."
+    },
+    {
+        "label": "Security.",
+        "text": "I received an email from my bank asking for my account details. Is it safe to reply?"
+    },
+    {
+        "label": "Audio Visual.",
+        "text": "I connected my computer to the TV, but the screen is black. There's no picture."
+    },
+    {
+        "label": "Networking.",
+        "text": "My internet is not working on my laptop. It says 'Limited or no connectivity.'"
+    },
+    {
+        "label": "Service Desk.",
+        "text": "I accidentally deleted an important email from my inbox. Can I recover it somehow?"
+    },
+    {
+        "label": "Security.",
+        "text": "I keep getting strange error messages on my computer, and it's running really slow."
+    },
+    {
+        "label": "System Administration.",
+        "text": "I'm trying to change my computer's background wallpaper, but it's not working."
+    },
+    {
+        "label": "Applications.",
+        "text": "I can't open my word processing program. It just shows a blank screen."
+    },
+    {
+        "label": "Hardware.",
+        "text": "My computer keeps freezing randomly, and I have to restart it to make it work again."
+    },
+    {
+        "label": "Security.",
+        "text": "I received an email with an attachment, but I'm not sure if it's safe to open it."
+    },
+    {
+        "label": "Audio Visual.",
+        "text": "I connected my camera to the computer, but it's not recognizing it. I can't transfer my photos."
+    },
+    {
+        "label": "Networking.",
+        "text": "I can't join the Wi-Fi network on my phone. It keeps saying 'Authentication failed.'"
+    },
+    {
+        "label": "Service Desk.",
+        "text": "I accidentally deleted a file from my computer, and I emptied the recycle bin. Can I get it back?"
+    },
+    {
+        "label": "Security.",
+        "text": "I received a message on my computer saying I have a virus and need to call a number. Is it real?"
+    },
+    {
+        "label": "System Administration.",
+        "text": "I'm trying to install a new program, but it keeps giving me error messages. I don't know what to do."
+    },
+    {
+        "label": "Applications.",
+        "text": "I can't open my photo editing software. It crashes as soon as I try to open it."
+    },
+    {
+        "label": "Hardware.",
+        "text": "My computer screen is flickering, and the colors look weird. I don't know why it's happening."
+    },
+    {
+        "label": "Security.",
+        "text": "I received an email asking for my credit card information. Should I provide it?"
+    },
+    {
+        "label": "Audio Visual.",
+        "text": "I'm trying to watch a movie on my computer, but the video is stuttering. It's not smooth."
+    },
+    {
+        "label": "Networking.",
+        "text": "My internet connection keeps dropping, and I have to reconnect every few minutes."
+    },
+    {
+        "label": "Service Desk.",
+        "text": "I can't find my files on the computer. They were here yesterday, but now they're gone."
+    },
+    {
+        "label": "Security.",
+        "text": "I keep getting annoying pop-up ads on my computer, even when I'm not browsing the internet."
+    },
+    {
+        "label": "System Administration.",
+        "text": "I accidentally changed some settings on my computer, and now everything looks different. I want it back to how it was."
+    },
+    {
+        "label": "Applications.",
+        "text": "I tried to open a file, but my computer says it doesn't have the right program. What should I do?"
+    },
+    {
+        "label": "Hardware.",
+        "text": "My computer won't turn on. I press the power button, but nothing happens."
+    },
+    {
+        "label": "Security.",
+        "text": "I received an email from my bank asking for my account details. Is it safe to reply?"
+    },
+    {
+        "label": "Audio Visual.",
+        "text": "I connected my computer to the TV, but the screen is black. There's no picture."
+    },
+    {
+        "label": "Networking.",
+        "text": "My internet is not working on my laptop. It says 'Limited or no connectivity.'"
+    },
+    {
+        "label": "Service Desk.",
+        "text": "I accidentally deleted an important email from my inbox. Can I recover it somehow?"
+    },
+    {
+        "label": "Security.",
+        "text": "I keep getting strange error messages on my computer, and it's running really slow."
+    },
+    {
+        "label": "System Administration.",
+        "text": "I'm trying to change my computer's background wallpaper, but it's not working."
+    },
+    {
+        "label": "Applications.",
+        "text": "I can't open my word processing program. It just shows a blank screen."
+    },
+    {
+        "label": "Hardware.",
+        "text": "My computer keeps freezing randomly, and I have to restart it to make it work again."
+    },
+    {
+        "label": "Security.",
+        "text": "I received an email with an attachment, but I'm not sure if it's safe to open it."
+    },
+    {
+        "label": "Audio Visual.",
+        "text": "I connected my camera to the computer, but it's not recognizing it. I can't transfer my photos."
+    },
+    {
+        "label": "Networking.",
+        "text": "I can't join the Wi-Fi network on my phone. It keeps saying 'Authentication failed.'"
+    },
+    {
+        "label": "Service Desk.",
+        "text": "I accidentally deleted a file from my computer, and I emptied the recycle bin. Can I get it back?"
+    },
+    {
+        "label": "Security.",
+        "text": "I received a message on my computer saying I have a virus and need to call a number. Is it real?"
+    },
+    {
+        "label": "System Administration.",
+        "text": "I'm trying to install a new program, but it keeps giving me error messages. I don't know what to do."
+    },
+    {
+        "label": "Applications.",
+        "text": "I can't open my photo editing software. It crashes as soon as I try to open it."
+    },
+    {
+        "label": "Hardware.",
+        "text": "My computer screen is flickering, and the colors look weird. I don't know why it's happening."
+    },
+    {
+        "label": "Security.",
+        "text": "I received an email asking for my credit card information. Should I provide it?"
+    },
+    {
+        "label": "Audio Visual.",
+        "text": "I'm trying to watch a movie on my computer, but the video is stuttering. It's not smooth."
+    },
+    {
+        "label": "Networking.",
+        "text": "My internet connection keeps dropping, and I have to reconnect every few minutes."
+    },
+    {
+        "label": "Service Desk.",
+        "text": "I can't find my files on the computer. They were here yesterday, but now they're gone."
+    },
+    {
+        "label": "Security.",
+        "text": "I keep getting annoying pop-up ads on my computer, even when I'm not browsing the internet."
+    },
+    {
+        "label": "System Administration.",
+        "text": "I accidentally changed some settings on my computer, and now everything looks different. I want it back to how it was."
+    },
+    {
+        "label": "Applications.",
+        "text": "I tried to open a file, but my computer says it doesn't have the right program. What should I do?"
+    },
+    {
+        "label": "Hardware.",
+        "text": "My computer won't turn on. I press the power button, but nothing happens."
+    },
+    {
+        "label": "Security.",
+        "text": "I received an email from my bank asking for my account details. Is it safe to reply?"
+    },
+    {
+        "label": "Audio Visual.",
+        "text": "I connected my computer to the TV, but the screen is black. There's no picture."
+    },
+    {
+        "label": "Networking.",
+        "text": "My internet is not working on my laptop. It says 'Limited or no connectivity.'"
+    },
+    {
+        "label": "Service Desk.",
+        "text": "I accidentally deleted an important email from my inbox. Can I recover it somehow?"
+    },
+    {
+        "label": "Security.",
+        "text": "I keep getting strange error messages on my computer, and it's running really slow."
+    },
+    {
+        "label": "System Administration.",
+        "text": "I'm trying to change my computer's background wallpaper, but it's not working."
+    },
+    {
+        "label": "Applications.",
+        "text": "I can't open my word processing program. It just shows a blank screen."
+    },
+    {
+        "label": "Hardware.",
+        "text": "My computer keeps freezing randomly, and I have to restart it to make it work again."
+    },
+    {
+        "label": "Security.",
+        "text": "I received an email with an attachment, but I'm not sure if it's safe to open it."
+    },
+    {
+        "label": "Audio Visual.",
+        "text": "I connected my camera to the computer, but it's not recognizing it. I can't transfer my photos."
+    },
+    {
+        "label": "Networking.",
+        "text": "I can't join the Wi-Fi network on my phone. It keeps saying 'Authentication failed.'"
+    },
+    {
+        "label": "Service Desk.",
+        "text": "I accidentally deleted a file from my computer, and I emptied the recycle bin. Can I get it back?"
+    },
+    {
+        "label": "Security.",
+        "text": "I received a message on my computer saying I have a virus and need to call a number. Is it real?"
+    },
+    {
+        "label": "System Administration.",
+        "text": "I'm trying to install a new program, but it keeps giving me error messages. I don't know what to do."
+    },
+    {
+        "label": "Applications.",
+        "text": "I can't open my photo editing software. It crashes as soon as I try to open it."
+    },
+    {
+        "label": "Hardware.",
+        "text": "My computer screen is flickering, and the colors look weird. I don't know why it's happening."
+    },
+    {
+        "label": "Security.",
+        "text": "I received an email asking for my credit card information. Should I provide it?"
+    },
+    {
+        "label": "Audio Visual.",
+        "text": "I'm trying to watch a movie on my computer, but the video is stuttering. It's not smooth."
+    },
+    {
+        "label": "Networking.",
+        "text": "My internet connection keeps dropping, and I have to reconnect every few minutes."
+    },
+    {
+        "label": "Service Desk.",
+        "text": "I can't find my files on the computer. They were here yesterday, but now they're gone."
+    },
+    {
+        "label": "Security.",
+        "text": "I keep getting annoying pop-up ads on my computer, even when I'm not browsing the internet."
+    },
+    {
+        "label": "System Administration.",
+        "text": "I accidentally changed some settings on my computer, and now everything looks different. I want it back to how it was."
+    },
+    {
+        "label": "Applications.",
+        "text": "I tried to open a file, but my computer says it doesn't have the right program. What should I do?"
+    },
+    {
+        "label": "Hardware.",
+        "text": "My computer won't turn on. I press the power button, but nothing happens."
+    },
+    {
+        "label": "Security.",
+        "text": "I received an email from my bank asking for my account details. Is it safe to reply?"
+    },
+    {
+        "label": "Audio Visual.",
+        "text": "I connected my computer to the TV, but the screen is black. There's no picture."
+    },
+    {
+        "label": "Networking.",
+        "text": "My internet is not working on my laptop. It says 'Limited or no connectivity.'"
+    },
+    {
+        "label": "Service Desk.",
+        "text": "I accidentally deleted an important email from my inbox. Can I recover it somehow?"
+    },
+    {
+        "label": "Security.",
+        "text": "I keep getting strange error messages on my computer, and it's running really slow."
+    },
+    {
+        "label": "System Administration.",
+        "text": "I'm trying to change my computer's background wallpaper, but it's not working."
+    },
+    {
+        "label": "Applications.",
+        "text": "I can't open my word processing program. It just shows a blank screen."
+    },
+    {
+        "label": "Hardware.",
+        "text": "My computer keeps freezing randomly, and I have to restart it to make it work again."
+    },
+    {
+        "label": "Security.",
+        "text": "I received an email with an attachment, but I'm not sure if it's safe to open it."
+    },
+    {
+        "label": "Audio Visual.",
+        "text": "I connected my camera to the computer, but it's not recognizing it. I can't transfer my photos."
+    },
+    {
+        "label": "Networking.",
+        "text": "I can't join the Wi-Fi network on my phone. It keeps saying 'Authentication failed.'"
+    },
+    {
+        "label": "Service Desk.",
+        "text": "I accidentally deleted a file from my computer, and I emptied the recycle bin. Can I get it back?"
+    },
+    {
+        "label": "Security.",
+        "text": "I received a message on my computer saying I have a virus and need to call a number. Is it real?"
+    },
+    {
+        "label": "System Administration.",
+        "text": "I'm trying to install a new program, but it keeps giving me error messages. I don't know what to do."
+    },
+    {
+        "label": "Applications.",
+        "text": "I can't open my photo editing software. It crashes as soon as I try to open it."
+    },
+    {
+        "label": "Hardware.",
+        "text": "My computer screen is flickering, and the colors look weird. I don't know why it's happening."
+    },
+    {
+        "label": "Security.",
+        "text": "I received an email asking for my credit card information. Should I provide it?"
+    },
+    {
+        "label": "Audio Visual.",
+        "text": "I'm trying to watch a movie on my computer, but the video is stuttering. It's not smooth."
+    },
+    {
+        "label": "Networking.",
+        "text": "My internet connection keeps dropping, and I have to reconnect every few minutes."
+    },
+    {
+        "label": "Service Desk.",
+        "text": "I can't find my files on the computer. They were here yesterday, but now they're gone."
+    },
+    {
+        "label": "Security.",
+        "text": "I keep getting annoying pop-up ads on my computer, even when I'm not browsing the internet."
+    },
+    {
+        "label": "System Administration.",
+        "text": "I accidentally changed some settings on my computer, and now everything looks different. I want it back to how it was."
+    },
+    {
+        "label": "Applications.",
+        "text": "I tried to open a file, but my computer says it doesn't have the right program. What should I do?"
+    },
+    {
+        "label": "Hardware.",
+        "text": "My computer won't turn on. I press the power button, but nothing happens."
+    },
+    {
+        "label": "Security.",
+        "text": "I received an email from my bank asking for my account details. Is it safe to reply?"
+    },
+    {
+        "label": "Audio Visual.",
+        "text": "I connected my computer to the TV, but the screen is black. There's no picture."
+    },
+    {
+        "label": "Networking.",
+        "text": "My internet is not working on my laptop. It says 'Limited or no connectivity.'"
+    },
+    {
+        "label": "Service Desk.",
+        "text": "I accidentally deleted an important email from my inbox. Can I recover it somehow?"
+    },
+    {
+        "label": "Security.",
+        "text": "I keep getting strange error messages on my computer, and it's running really slow."
+    },
+    {
+        "label": "System Administration.",
+        "text": "I'm trying to change my computer's background wallpaper, but it's not working."
+    },
+    {
+        "label": "Applications.",
+        "text": "I can't open my word processing program. It just shows a blank screen."
+    },
+    {
+        "label": "Hardware.",
+        "text": "My computer keeps freezing randomly, and I have to restart it to make it work again."
+    },
+    {
+        "label": "Security.",
+        "text": "I received an email with an attachment, but I'm not sure if it's safe to open it."
+    },
+    {
+        "label": "Audio Visual.",
+        "text": "I connected my camera to the computer, but it's not recognizing it. I can't transfer my photos."
+    },
+    {
+        "label": "Networking.",
+        "text": "I can't join the Wi-Fi network on my phone. It keeps saying 'Authentication failed.'"
+    },
+    {
+        "label": "Service Desk.",
+        "text": "I accidentally deleted a file from my computer, and I emptied the recycle bin. Can I get it back?"
+    },
+    {
+        "label": "Security.",
+        "text": "I received a message on my computer saying I have a virus and need to call a number. Is it real?"
+    },
+    {
+        "label": "System Administration.",
+        "text": "I'm trying to install a new program, but it keeps giving me error messages. I don't know what to do."
+    },
+    {
+        "label": "Applications.",
+        "text": "I can't open my photo editing software. It crashes as soon as I try to open it."
+    },
+    {
+        "label": "Hardware.",
+        "text": "My computer screen is flickering, and the colors look weird. I don't know why it's happening."
+    },
+    {
+        "label": "Security.",
+        "text": "I received an email asking for my credit card information. Should I provide it?"
+    },
+    {
+        "label": "Audio Visual.",
+        "text": "I'm trying to watch a movie on my computer, but the video is stuttering. It's not smooth."
+    },
+    {
+        "label": "Networking.",
+        "text": "My internet connection keeps dropping, and I have to reconnect every few minutes."
+    },
+    {
+        "label": "Service Desk.",
+        "text": "I can't find my files on the computer. They were here yesterday, but now they're gone."
+    },
+    {
+        "label": "Security.",
+        "text": "I keep getting annoying pop-up ads on my computer, even when I'm not browsing the internet."
+    },
+    {
+        "label": "System Administration.",
+        "text": "I accidentally changed some settings on my computer, and now everything looks different. I want it back to how it was."
+    },
+    {
+        "label": "Applications.",
+        "text": "I tried to open a file, but my computer says it doesn't have the right program. What should I do?"
+    },
+    {
+        "label": "Hardware.",
+        "text": "My computer won't turn on. I press the power button, but nothing happens."
+    },
+    {
+        "label": "Security.",
+        "text": "I received an email from my bank asking for my account details. Is it safe to reply?"
+    },
+    {
+        "label": "Audio Visual.",
+        "text": "I connected my computer to the TV, but the screen is black. There's no picture."
+    },
+    {
+        "label": "Networking.",
+        "text": "My internet is not working on my laptop. It says 'Limited or no connectivity.'"
+    },
+    {
+        "label": "Service Desk.",
+        "text": "I accidentally deleted an important email from my inbox. Can I recover it somehow?"
+    },
+    {
+        "label": "Security.",
+        "text": "I keep getting strange error messages on my computer, and it's running really slow."
+    },
+    {
+        "label": "System Administration.",
+        "text": "I'm trying to change my computer's background wallpaper, but it's not working."
+    },
+    {
+        "label": "Applications.",
+        "text": "I can't open my word processing program. It just shows a blank screen."
+    },
+    {
+        "label": "Hardware.",
+        "text": "My computer keeps freezing randomly, and I have to restart it to make it work again."
+    },
+    {
+        "label": "Security.",
+        "text": "I received an email with an attachment, but I'm not sure if it's safe to open it."
+    },
+    {
+        "label": "Audio Visual.",
+        "text": "I connected my camera to the computer, but it's not recognizing it. I can't transfer my photos."
+    },
+    {
+        "label": "Networking.",
+        "text": "I can't join the Wi-Fi network on my phone. It keeps saying 'Authentication failed.'"
+    },
+    {
+        "label": "Service Desk.",
+        "text": "I accidentally deleted a file from my computer, and I emptied the recycle bin. Can I get it back?"
+    },
+    {
+        "label": "Security.",
+        "text": "I received a message on my computer saying I have a virus and need to call a number. Is it real?"
+    },
+    {
+        "label": "System Administration.",
+        "text": "I'm trying to install a new program, but it keeps giving me error messages. I don't know what to do."
+    },
+    {
+        "label": "Applications.",
+        "text": "I can't open my photo editing software. It crashes as soon as I try to open it."
+    },
+    {
+        "label": "Hardware.",
+        "text": "My computer screen is flickering, and the colors look weird. I don't know why it's happening."
+    },
+    {
+        "label": "Security.",
+        "text": "I received an email asking for my credit card information. Should I provide it?"
+    },
+    {
+        "label": "Audio Visual.",
+        "text": "I'm trying to watch a movie on my computer, but the video is stuttering. It's not smooth."
+    },
+    {
+        "label": "Networking.",
+        "text": "My internet connection keeps dropping, and I have to reconnect every few minutes."
+    },
+    {
+        "label": "Service Desk.",
+        "text": "I can't find my files on the computer. They were here yesterday, but now they're gone."
+    },
+    {
+        "label": "Security.",
+        "text": "I keep getting annoying pop-up ads on my computer, even when I'm not browsing the internet."
+    },
+    {
+        "label": "System Administration.",
+        "text": "I accidentally changed some settings on my computer, and now everything looks different. I want it back to how it was."
+    },
+    {
+        "label": "Applications.",
+        "text": "I tried to open a file, but my computer says it doesn't have the right program. What should I do?"
+    },
+    {
+        "label": "Hardware.",
+        "text": "My computer won't turn on. I press the power button, but nothing happens."
+    },
+    {
+        "label": "Security.",
+        "text": "I received an email from my bank asking for my account details. Is it safe to reply?"
+    },
+    {
+        "label": "Audio Visual.",
+        "text": "I connected my computer to the TV, but the screen is black. There's no picture."
+    },
+    {
+        "label": "Networking.",
+        "text": "My internet is not working on my laptop. It says 'Limited or no connectivity.'"
+    },
+    {
+        "label": "Service Desk.",
+        "text": "I accidentally deleted an important email from my inbox. Can I recover it somehow?"
+    },
+    {
+        "label": "Security.",
+        "text": "I keep getting strange error messages on my computer, and it's running really slow."
+    },
+    {
+        "label": "System Administration.",
+        "text": "I'm trying to change my computer's background wallpaper, but it's not working."
+    },
+    {
+        "label": "Applications.",
+        "text": "I can't open my word processing program. It just shows a blank screen."
+    },
+    {
+        "label": "Hardware.",
+        "text": "My computer keeps freezing randomly, and I have to restart it to make it work again."
+    },
+    {
+        "label": "Security.",
+        "text": "I received an email with an attachment, but I'm not sure if it's safe to open it."
+    },
+    {
+        "label": "Audio Visual.",
+        "text": "I connected my camera to the computer, but it's not recognizing it. I can't transfer my photos."
+    },
+    {
+        "label": "Networking.",
+        "text": "I can't join the Wi-Fi network on my phone. It keeps saying 'Authentication failed.'"
+    },
+    {
+        "label": "Service Desk.",
+        "text": "I accidentally deleted a file from my computer, and I emptied the recycle bin. Can I get it back?"
+    },
+    {
+        "label": "Security.",
+        "text": "I received a message on my computer saying I have a virus and need to call a number. Is it real?"
+    },
+    {
+        "label": "System Administration.",
+        "text": "I'm trying to install a new program, but it keeps giving me error messages. I don't know what to do."
+    },
+    {
+        "label": "Applications.",
+        "text": "I can't open my photo editing software. It crashes as soon as I try to open it."
+    },
+    {
+        "label": "Hardware.",
+        "text": "My computer screen is flickering, and the colors look weird. I don't know why it's happening."
+    },
+    {
+        "label": "Security.",
+        "text": "I received an email asking for my credit card information. Should I provide it?"
+    },
+    {
+        "label": "Audio Visual.",
+        "text": "I'm trying to watch a movie on my computer, but the video is stuttering. It's not smooth."
+    },
+    {
+        "label": "Networking.",
+        "text": "My internet connection keeps dropping, and I have to reconnect every few minutes."
+    },
+    {
+        "label": "Service Desk.",
+        "text": "I can't find my files on the computer. They were here yesterday, but now they're gone."
+    },
+    {
+        "label": "Security.",
+        "text": "I keep getting annoying pop-up ads on my computer, even when I'm not browsing the internet."
+    },
+    {
+        "label": "System Administration.",
+        "text": "I accidentally changed some settings on my computer, and now everything looks different. I want it back to how it was."
+    },
+    {
+        "label": "Applications.",
+        "text": "I tried to open a file, but my computer says it doesn't have the right program. What should I do?"
+    },
+    {
+        "label": "Hardware.",
+        "text": "My computer won't turn on. I press the power button, but nothing happens."
+    },
+    {
+        "label": "Security.",
+        "text": "I received an email from my bank asking for my account details. Is it safe to reply?"
+    },
+    {
+        "label": "Audio Visual.",
+        "text": "I connected my computer to the TV, but the screen is black. There's no picture."
+    },
+    {
+        "label": "Networking.",
+        "text": "My internet is not working on my laptop. It says 'Limited or no connectivity.'"
+    },
+    {
+        "label": "Service Desk.",
+        "text": "I accidentally deleted an important email from my inbox. Can I recover it somehow?"
+    },
+    {
+        "label": "Security.",
+        "text": "I keep getting strange error messages on my computer, and it's running really slow."
+    },
+    {
+        "label": "System Administration.",
+        "text": "I'm trying to change my computer's background wallpaper, but it's not working."
+    },
+    {
+        "label": "Applications.",
+        "text": "I can't open my word processing program. It just shows a blank screen."
+    },
+    {
+        "label": "Hardware.",
+        "text": "My computer keeps freezing randomly, and I have to restart it to make it work again."
+    },
+    {
+        "label": "Security.",
+        "text": "I received an email with an attachment, but I'm not sure if it's safe to open it."
+    },
+    {
+        "label": "Audio Visual.",
+        "text": "I connected my camera to the computer, but it's not recognizing it. I can't transfer my photos."
+    },
+    {
+        "label": "Networking.",
+        "text": "I can't join the Wi-Fi network on my phone. It keeps saying 'Authentication failed.'"
+    },
+    {
+        "label": "Service Desk.",
+        "text": "I accidentally deleted a file from my computer, and I emptied the recycle bin. Can I get it back?"
+    },
+    {
+        "label": "Security.",
+        "text": "I received a message on my computer saying I have a virus and need to call a number. Is it real?"
+    },
+    {
+        "label": "System Administration.",
+        "text": "I'm trying to install a new program, but it keeps giving me error messages. I don't know what to do."
+    },
+    {
+        "label": "Applications.",
+        "text": "I can't open my photo editing software. It crashes as soon as I try to open it."
+    },
+    {
+        "label": "Hardware.",
+        "text": "My computer screen is flickering, and the colors look weird. I don't know why it's happening."
+    },
+    {
+        "label": "Security.",
+        "text": "I received an email asking for my credit card information. Should I provide it?"
+    },
+    {
+        "label": "Audio Visual.",
+        "text": "I'm trying to watch a movie on my computer, but the video is stuttering. It's not smooth."
+    },
+    {
+        "label": "Networking.",
+        "text": "My internet connection keeps dropping, and I have to reconnect every few minutes."
+    },
+    {
+        "label": "Service Desk.",
+        "text": "I can't find my files on the computer. They were here yesterday, but now they're gone."
+    },
+    {
+        "label": "Security.",
+        "text": "I keep getting annoying pop-up ads on my computer, even when I'm not browsing the internet."
+    },
+    {
+        "label": "System Administration.",
+        "text": "I accidentally changed some settings on my computer, and now everything looks different. I want it back to how it was."
+    },
+    {
+        "label": "Applications.",
+        "text": "I tried to open a file, but my computer says it doesn't have the right program. What should I do?"
+    },
+    {
+        "label": "Hardware.",
+        "text": "My computer won't turn on. I press the power button, but nothing happens."
+    },
+    {
+        "label": "Security.",
+        "text": "I received an email from my bank asking for my account details. Is it safe to reply?"
+    },
+    {
+        "label": "Audio Visual.",
+        "text": "I connected my computer to the TV, but the screen is black. There's no picture."
+    },
+    {
+        "label": "Networking.",
+        "text": "My internet is not working on my laptop. It says 'Limited or no connectivity.'"
+    },
+    {
+        "label": "Service Desk.",
+        "text": "I accidentally deleted an important email from my inbox. Can I recover it somehow?"
+    },
+    {
+        "label": "Security.",
+        "text": "I keep getting strange error messages on my computer, and it's running really slow."
+    },
+    {
+        "label": "System Administration.",
+        "text": "I'm trying to change my computer's background wallpaper, but it's not working."
+    },
+    {
+        "label": "Applications.",
+        "text": "I can't open my word processing program. It just shows a blank screen."
+    },
+    {
+        "label": "Hardware.",
+        "text": "My computer keeps freezing randomly, and I have to restart it to make it work again."
+    },
+    {
+        "label": "Security.",
+        "text": "I received an email with an attachment, but I'm not sure if it's safe to open it."
+    },
+    {
+        "label": "Audio Visual.",
+        "text": "I connected my camera to the computer, but it's not recognizing it. I can't transfer my photos."
+    },
+    {
+        "label": "Networking.",
+        "text": "I can't join the Wi-Fi network on my phone. It keeps saying 'Authentication failed.'"
+    },
+    {
+        "label": "Service Desk.",
+        "text": "I accidentally deleted a file from my computer, and I emptied the recycle bin. Can I get it back?"
+    },
+    {
+        "label": "Security.",
+        "text": "I received a message on my computer saying I have a virus and need to call a number. Is it real?"
+    },
+    {
+        "label": "System Administration.",
+        "text": "I'm trying to install a new program, but it keeps giving me error messages. I don't know what to do."
+    },
+    {
+        "label": "Applications.",
+        "text": "I can't open my photo editing software. It crashes as soon as I try to open it."
+    },
+    {
+        "label": "Hardware.",
+        "text": "My computer screen is flickering, and the colors look weird. I don't know why it's happening."
+    },
+    {
+        "label": "Security.",
+        "text": "I received an email asking for my credit card information. Should I provide it?"
+    },
+    {
+        "label": "Audio Visual.",
+        "text": "I'm trying to watch a movie on my computer, but the video is stuttering. It's not smooth."
+    },
+    {
+        "label": "Networking.",
+        "text": "My internet connection keeps dropping, and I have to reconnect every few minutes."
+    },
+    {
+        "label": "Service Desk.",
+        "text": "I can't find my files on the computer. They were here yesterday, but now they're gone."
+    },
+    {
+        "label": "Security.",
+        "text": "I keep getting annoying pop-up ads on my computer, even when I'm not browsing the internet."
+    },
+    {
+        "label": "System Administration.",
+        "text": "I accidentally changed some settings on my computer, and now everything looks different. I want it back to how it was."
+    },
+    {
+        "label": "Applications.",
+        "text": "I tried to open a file, but my computer says it doesn't have the right program. What should I do?"
+    },
+    {
+        "label": "Hardware.",
+        "text": "My computer won't turn on. I press the power button, but nothing happens."
+    },
+    {
+        "label": "Security.",
+        "text": "I received an email from my bank asking for my account details. Is it safe to reply?"
+    },
+    {
+        "label": "Audio Visual.",
+        "text": "I connected my computer to the TV, but the screen is black. There's no picture."
+    },
+    {
+        "label": "Networking.",
+        "text": "My internet is not working on my laptop. It says 'Limited or no connectivity.'"
+    },
+    {
+        "label": "Service Desk.",
+        "text": "I accidentally deleted an important email from my inbox. Can I recover it somehow?"
+    },
+    {
+        "label": "Security.",
+        "text": "I keep getting strange error messages on my computer, and it's running really slow."
+    },
+    {
+        "label": "System Administration.",
+        "text": "I'm trying to change my computer's background wallpaper, but it's not working."
+    },
+    {
+        "label": "Applications.",
+        "text": "I can't open my word processing program. It just shows a blank screen."
+    },
+    {
+        "label": "Hardware.",
+        "text": "My computer keeps freezing randomly, and I have to restart it to make it work again."
+    },
+    {
+        "label": "Security.",
+        "text": "I received an email with an attachment, but I'm not sure if it's safe to open it."
+    },
+    {
+        "label": "Audio Visual.",
+        "text": "I connected my camera to the computer, but it's not recognizing it. I can't transfer my photos."
+    },
+    {
+        "label": "Networking.",
+        "text": "I can't join the Wi-Fi network on my phone. It keeps saying 'Authentication failed.'"
+    },
+    {
+        "label": "Service Desk.",
+        "text": "I accidentally deleted a file from my computer, and I emptied the recycle bin. Can I get it back?"
+    },
+    {
+        "label": "Security.",
+        "text": "I received a message on my computer saying I have a virus and need to call a number. Is it real?"
+    },
+    {
+        "label": "System Administration.",
+        "text": "I'm trying to install a new program, but it keeps giving me error messages. I don't know what to do."
+    },
+    {
+        "label": "Applications.",
+        "text": "I can't open my photo editing software. It crashes as soon as I try to open it."
+    },
+    {
+        "label": "Hardware.",
+        "text": "My computer screen is flickering, and the colors look weird. I don't know why it's happening."
+    },
+    {
+        "label": "Security.",
+        "text": "I received an email asking for my credit card information. Should I provide it?"
+    },
+    {
+        "label": "Audio Visual.",
+        "text": "I'm trying to watch a movie on my computer, but the video is stuttering. It's not smooth."
+    },
+    {
+        "label": "Networking.",
+        "text": "My internet connection keeps dropping, and I have to reconnect every few minutes."
+    },
+    {
+        "label": "Service Desk.",
+        "text": "I can't find my files on the computer. They were here yesterday, but now they're gone."
+    },
+    {
+        "label": "Security.",
+        "text": "I keep getting annoying pop-up ads on my computer, even when I'm not browsing the internet."
+    },
+    {
+        "label": "System Administration.",
+        "text": "I accidentally changed some settings on my computer, and now everything looks different. I want it back to how it was."
+    },
+    {
+        "label": "Applications.",
+        "text": "I tried to open a file, but my computer says it doesn't have the right program. What should I do?"
+    },
+    {
+        "label": "Hardware.",
+        "text": "My computer won't turn on. I press the power button, but nothing happens."
+    },
+    {
+        "label": "Security.",
+        "text": "I received an email from my bank asking for my account details. Is it safe to reply?"
+    },
+    {
+        "label": "Audio Visual.",
+        "text": "I connected my computer to the TV, but the screen is black. There's no picture."
+    },
+    {
+        "label": "Networking.",
+        "text": "My internet is not working on my laptop. It says 'Limited or no connectivity.'"
+    },
+    {
+        "label": "Service Desk.",
+        "text": "I accidentally deleted an important email from my inbox. Can I recover it somehow?"
+    },
+    {
+        "label": "Security.",
+        "text": "I keep getting strange error messages on my computer, and it's running really slow."
+    },
+    {
+        "label": "System Administration.",
+        "text": "I'm trying to change my computer's background wallpaper, but it's not working."
+    },
+    {
+        "label": "Applications.",
+        "text": "I can't open my word processing program. It just shows a blank screen."
+    },
+    {
+        "label": "Hardware.",
+        "text": "My computer keeps freezing randomly, and I have to restart it to make it work again."
+    },
+    {
+        "label": "Security.",
+        "text": "I received an email with an attachment, but I'm not sure if it's safe to open it."
+    },
+    {
+        "label": "Audio Visual.",
+        "text": "I connected my camera to the computer, but it's not recognizing it. I can't transfer my photos."
+    },
+    {
+        "label": "Networking.",
+        "text": "I can't join the Wi-Fi network on my phone. It keeps saying 'Authentication failed.'"
+    },
+    {
+        "label": "Service Desk.",
+        "text": "I accidentally deleted a file from my computer, and I emptied the recycle bin. Can I get it back?"
+    },
+    {
+        "label": "Security.",
+        "text": "I received a message on my computer saying I have a virus and need to call a number. Is it real?"
+    },
+    {
+        "label": "System Administration.",
+        "text": "I'm trying to install a new program, but it keeps giving me error messages. I don't know what to do."
+    },
+    {
+        "label": "Applications.",
+        "text": "I can't open my photo editing software. It crashes as soon as I try to open it."
+    },
+    {
+        "label": "Hardware.",
+        "text": "My computer screen is flickering, and the colors look weird. I don't know why it's happening."
+    },
+    {
+        "label": "Security.",
+        "text": "I received an email asking for my credit card information. Should I provide it?"
+    },
+    {
+        "label": "Audio Visual.",
+        "text": "I'm trying to watch a movie on my computer, but the video is stuttering. It's not smooth."
+    },
+    {
+        "label": "Networking.",
+        "text": "My internet connection keeps dropping, and I have to reconnect every few minutes."
+    },
+    {
+        "label": "Service Desk.",
+        "text": "I can't find my files on the computer. They were here yesterday, but now they're gone."
+    },
+    {
+        "label": "Security.",
+        "text": "I keep getting annoying pop-up ads on my computer, even when I'm not browsing the internet."
+    },
+    {
+        "label": "System Administration.",
+        "text": "I accidentally changed some settings on my computer, and now everything looks different. I want it back to how it was."
+    },
+    {
+        "label": "Applications.",
+        "text": "I tried to open a file, but my computer says it doesn't have the right program. What should I do?"
+    },
+    {
+        "label": "Hardware.",
+        "text": "My computer won't turn on. I press the power button, but nothing happens."
+    },
+    {
+        "label": "Security.",
+        "text": "I received an email from my bank asking for my account details. Is it safe to reply?"
+    },
+    {
+        "label": "Audio Visual.",
+        "text": "I connected my computer to the TV, but the screen is black. There's no picture."
+    },
+    {
+        "label": "Networking.",
+        "text": "My internet is not working on my laptop. It says 'Limited or no connectivity.'"
+    },
+    {
+        "label": "Service Desk.",
+        "text": "I accidentally deleted an important email from my inbox. Can I recover it somehow?"
+    },
+    {
+        "label": "Security.",
+        "text": "I keep getting strange error messages on my computer, and it's running really slow."
+    },
+    {
+        "label": "System Administration.",
+        "text": "I'm trying to change my computer's background wallpaper, but it's not working."
+    },
+    {
+        "label": "Applications.",
+        "text": "I can't open my word processing program. It just shows a blank screen."
+    },
+    {
+        "label": "Hardware.",
+        "text": "My computer keeps freezing randomly, and I have to restart it to make it work again."
+    },
+    {
+        "label": "Security.",
+        "text": "I received an email with an attachment, but I'm not sure if it's safe to open it."
+    },
+    {
+        "label": "Audio Visual.",
+        "text": "I connected my camera to the computer, but it's not recognizing it. I can't transfer my photos."
+    },
+    {
+        "label": "Networking.",
+        "text": "I can't join the Wi-Fi network on my phone. It keeps saying 'Authentication failed.'"
+    },
+    {
+        "label": "Service Desk.",
+        "text": "I accidentally deleted a file from my computer, and I emptied the recycle bin. Can I get it back?"
+    },
+    {
+        "label": "Security.",
+        "text": "I received a message on my computer saying I have a virus and need to call a number. Is it real?"
+    },
+    {
+        "label": "System Administration.",
+        "text": "I'm trying to install a new program, but it keeps giving me error messages. I don't know what to do."
+    },
+    {
+        "label": "Applications.",
+        "text": "I can't open my photo editing software. It crashes as soon as I try to open it."
+    },
+    {
+        "label": "Hardware.",
+        "text": "My computer screen is flickering, and the colors look weird. I don't know why it's happening."
+    },
+    {
+        "label": "Security.",
+        "text": "I received an email asking for my credit card information. Should I provide it?"
+    },
+    {
+        "label": "Audio Visual.",
+        "text": "I'm trying to watch a movie on my computer, but the video is stuttering. It's not smooth."
+    },
+    {
+        "label": "Networking.",
+        "text": "My internet connection keeps dropping, and I have to reconnect every few minutes."
+    },
+    {
+        "label": "Service Desk.",
+        "text": "I can't find my files on the computer. They were here yesterday, but now they're gone."
+    },
+    {
+        "label": "Security.",
+        "text": "I keep getting annoying pop-up ads on my computer, even when I'm not browsing the internet."
+    },
+    {
+        "label": "System Administration.",
+        "text": "I accidentally changed some settings on my computer, and now everything looks different. I want it back to how it was."
+    },
+    {
+        "label": "Applications.",
+        "text": "I tried to open a file, but my computer says it doesn't have the right program. What should I do?"
+    },
+    {
+        "label": "Hardware.",
+        "text": "My computer won't turn on. I press the power button, but nothing happens."
+    },
+    {
+        "label": "Security.",
+        "text": "I received an email from my bank asking for my account details. Is it safe to reply?"
+    },
+    {
+        "label": "Audio Visual.",
+        "text": "I connected my computer to the TV, but the screen is black. There's no picture."
+    },
+    {
+        "label": "Networking.",
+        "text": "My internet is not working on my laptop. It says 'Limited or no connectivity.'"
+    },
+    {
+        "label": "Service Desk.",
+        "text": "I accidentally deleted an important email from my inbox. Can I recover it somehow?"
+    },
+    {
+        "label": "Security.",
+        "text": "I keep getting strange error messages on my computer, and it's running really slow."
+    },
+    {
+        "label": "System Administration.",
+        "text": "I'm trying to change my computer's background wallpaper, but it's not working."
+    },
+    {
+        "label": "Applications.",
+        "text": "I can't open my word processing program. It just shows a blank screen."
+    },
+    {
+        "label": "Hardware.",
+        "text": "My computer keeps freezing randomly, and I have to restart it to make it work again."
+    },
+    {
+        "label": "Security.",
+        "text": "I received an email with an attachment, but I'm not sure if it's safe to open it."
+    },
+    {
+        "label": "Audio Visual.",
+        "text": "I connected my camera to the computer, but it's not recognizing it. I can't transfer my photos."
+    },
+    {
+        "label": "Networking.",
+        "text": "I can't join the Wi-Fi network on my phone. It keeps saying 'Authentication failed.'"
+    },
+    {
+        "label": "Service Desk.",
+        "text": "I accidentally deleted a file from my computer, and I emptied the recycle bin. Can I get it back?"
+    },
+    {
+        "label": "Security.",
+        "text": "I received a message on my computer saying I have a virus and need to call a number. Is it real?"
+    },
+    {
+        "label": "System Administration.",
+        "text": "I'm trying to install a new program, but it keeps giving me error messages. I don't know what to do."
+    },
+    {
+        "label": "Applications.",
+        "text": "I can't open my photo editing software. It crashes as soon as I try to open it."
+    },
+    {
+        "label": "Hardware.",
+        "text": "My computer screen is flickering, and the colors look weird. I don't know why it's happening."
+    },
+    {
+        "label": "Security.",
+        "text": "I received an email asking for my credit card information. Should I provide it?"
+    },
+    {
+        "label": "Audio Visual.",
+        "text": "I'm trying to watch a movie on my computer, but the video is stuttering. It's not smooth."
+    },
+    {
+        "label": "Networking.",
+        "text": "My internet connection keeps dropping, and I have to reconnect every few minutes."
+    },
+    {
+        "label": "Service Desk.",
+        "text": "I can't find my files on the computer. They were here yesterday, but now they're gone."
+    },
+    {
+        "label": "Security.",
+        "text": "I keep getting annoying pop-up ads on my computer, even when I'm not browsing the internet."
+    },
+    {
+        "label": "System Administration.",
+        "text": "I accidentally changed some settings on my computer, and now everything looks different. I want it back to how it was."
+    },
+    {
+        "label": "Applications.",
+        "text": "I tried to open a file, but my computer says it doesn't have the right program. What should I do?"
+    },
+    {
+        "label": "Hardware.",
+        "text": "My computer won't turn on. I press the power button, but nothing happens."
+    },
+    {
+        "label": "Security.",
+        "text": "I received an email from my bank asking for my account details. Is it safe to reply?"
+    },
+    {
+        "label": "Audio Visual.",
+        "text": "I connected my computer to the TV, but the screen is black. There's no picture."
+    },
+    {
+        "label": "Networking.",
+        "text": "My internet is not working on my laptop. It says 'Limited or no connectivity.'"
+    },
+    {
+        "label": "Service Desk.",
+        "text": "I accidentally deleted an important email from my inbox. Can I recover it somehow?"
+    },
+    {
+        "label": "Security.",
+        "text": "I keep getting strange error messages on my computer, and it's running really slow."
+    },
+    {
+        "label": "System Administration.",
+        "text": "I'm trying to change my computer's background wallpaper, but it's not working."
+    }
+]

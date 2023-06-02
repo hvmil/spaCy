@@ -1,3 +1,8 @@
+{% extends 'base.html' %}
+
+{% block title %}Home{% endblock %}
+
+{% block content %}
 <!DOCTYPE html>
 <html>
 
@@ -14,24 +19,14 @@
 
 <body>
     <div class="nlp">
-        <h1 style="color:black;" class="tracking-in-expand">IT Ticket Prediction</h1>
+        <h1 style="color:black;" >IT Ticket Prediction</h1>
 
 
-        <p class="text-focus-in"> Our NLP (Natural Language Processing) model has the capability to predict which SUNY
+        <p > Our NLP (Natural Language Processing) model has the capability to predict which SUNY
             New Paltz IT technician is the most
             suitable for a particular ticket based on the given problem description. This model streamlines the ticket
             resolution process, leading to faster response times and enhanced efficiency. </p>
 
-        <!-- <div class="tweets">
-        <blockquote class="twitter-tweet" data-lang="en" data-theme="dark"><p lang="en" dir="ltr">The purpose of nature is the advancement and development of life</p>&mdash; Glory Boy (@ChiefKeef) <a href="https://twitter.com/ChiefKeef/status/243580008508055552?ref_src=twsrc%5Etfw">September 6, 2012</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-        <blockquote class="twitter-tweet" data-theme="dark"><p lang="en" dir="ltr">Failure is simply the opportunity to begin again, this time more intelligently</p>&mdash; Glory Boy (@ChiefKeef) <a href="https://twitter.com/ChiefKeef/status/243580442517856256?ref_src=twsrc%5Etfw">September 6, 2012</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-        
-      </div> -->
-
-        <!-- <iframe style="border-radius:12px; margin-top: 10px;"
-      src="https://open.spotify.com/embed/track/01Lr5YepbgjXAWR9iOEyH1?utm_source=generator&theme=0" width="50%"
-      height="200" frameBorder="0" allowfullscreen=""
-      allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe> -->
 
         <form action="{{ url_for('predict')}}" method="post">
             <textarea style="border-radius: 10px;" name="description" placeholder="Try it! Describe Your Problem"
@@ -44,7 +39,7 @@
 
 
 
-        <h2 class="animated jackInTheBox">
+        <h2 class="text-focus-in">
             {{ prediction_text }} </h2>
 
 
@@ -78,21 +73,11 @@
             darkmode.showWidget();
 
 
-            // const option2 = {
-            //     color: '#E9A178',
-            //     dotColor: 'white',
-            //     invert: true
-            // };
-            // new Blobity(option2);
-            const playButton = document.getElementById('playButton');
-            const myAudio = document.getElementById('myAudio');
-            playButton.addEventListener('click', function () {
-                drake.play();
-            });
-
+           
 
         </script>
 
 </body>
 
 </html>
+{% endblock %}
